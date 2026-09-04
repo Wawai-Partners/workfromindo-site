@@ -1,0 +1,1628 @@
+[
+  {
+    "id": 1,
+    "category": "News",
+    "title": "The Closing of the Open Web",
+    "excerpt": "a history of the fight over who gets to speak online, and how the open internet slowly disappeared",
+    "author": "J. Marlowe",
+    "date": "2026-08-30",
+    "likes": 97,
+    "comments": 14,
+    "color": "dark",
+    "image": "https://picsum.photos/seed/wire1/1200/900",
+    "body": [
+      "Twenty-two years ago you could read anything online without a login screen, a paywall, or a cookie consent banner blocking half the article. That web is gone, and it did not disappear in one dramatic event. It got fenced off piece by piece, platform by platform, until the open internet became a handful of walled gardens with a search bar out front.",
+      "I watched three waves of this from a rented desk in Southeast Asia, which turns out to be a decent vantage point. The first wave was mobile apps eating browsers around 2015. The second was platforms deciding outside links hurt engagement, so they buried anything that sent you off-site. The third, still running, is AI systems scraping everything and giving nothing back in traffic.",
+      "A media analyst named G. Prasetyo, who tracks referral traffic for a regional publisher network, told me their outside-link visits dropped 61 percent between 2019 and 2025. Sites either went behind a paywall or filled up with content designed to keep you scrolling on the platform itself rather than reading the source. Neither outcome resembles what people meant by 'the open web' in 2004.",
+      "None of this required a new law or a court ruling. It required a few companies optimizing for time-on-site and nobody with the incentive to stop them. The fix people keep proposing, some kind of federated alternative, has existed in various forms since at least 2016 and never gets past a few thousand enthusiastic users.",
+      "The open web did not die. It got renovated into something that looks similar and functions completely differently, the way a mall builds a fake town square. Nobody announced the change, because there was no single moment to announce."
+    ]
+  },
+  {
+    "id": 2,
+    "category": "Jobs",
+    "title": "America Forgot How to Make Things. This Founder Is Fixing That.",
+    "excerpt": "an exclusive look inside a startup making critical hardware components, and its founder's lonely fight to rebuild american manufacturing",
+    "author": "R. Doyle",
+    "date": "2026-08-28",
+    "likes": 111,
+    "comments": 13,
+    "color": "dark",
+    "image": "https://picsum.photos/seed/wire2/1200/900",
+    "body": [
+      "A hardware startup in a mid-sized industrial city is trying to rebuild a piece of the domestic manufacturing supply chain that mostly disappeared decades ago: precision-machined components for small motors, the kind that used to come from a dozen regional shops and now come almost entirely from overseas suppliers.",
+      "The founder, a mechanical engineer who spent 14 years at larger firms before starting this company in 2022, runs the operation out of a converted warehouse with 26 employees, most of them under 30 and none of whom had machining experience before joining. Training each hire takes roughly four months before they are fully productive on the equipment.",
+      "He is blunt about the economics: components made in-house cost about 40 percent more than importing the same part, a gap he covers through a mix of investor patience and a handful of customers willing to pay a premium for domestic sourcing and faster lead times. 'I'm not competing on price. I'm competing on the fact that I can answer the phone in your time zone,' he said.",
+      "The loneliness in the founder's own description is not metaphorical. He described most investors passing on the pitch specifically because domestic manufacturing at this scale has a bad track record, and said he has had exactly one competitor in his specific niche start up and shut down again since he began.",
+      "Whether the model survives past its current funding runway, which he estimates covers another 18 months, depends on landing at least two more anchor customers. He would not say who he is currently in talks with."
+    ]
+  },
+  {
+    "id": 3,
+    "category": "Places",
+    "subcategory": "Cities",
+    "title": "The Lost Dogs of the Old Quarter",
+    "excerpt": "we spent a day in the city's forgotten district, where stray animals and displaced families share the same broken streets",
+    "author": "N. Okafor and H. Ward",
+    "date": "2026-08-27",
+    "likes": 108,
+    "comments": 30,
+    "color": "dark",
+    "image": "https://picsum.photos/seed/wire3/1200/900",
+    "body": [
+      "The old quarter behind the main market has been losing residents for six years, and the empty houses left behind became the reason its stray dog population is now estimated at over 200 animals. We spent a full day walking the district with a local volunteer who has been feeding strays there since 2020.",
+      "The district itself is not abandoned, exactly. About 340 families still live there, mostly older residents whose children moved to newer housing developments outside the city center, plus a handful of squatters in structures nobody has formally condemned. The dogs mostly attach themselves to whoever feeds them consistently, which in most cases is the elderly residents who cannot afford much but do it anyway.",
+      "A volunteer named Sri, who runs an informal feeding route on her motorbike three mornings a week, told us the local sterilization program reached maybe 15 percent of the population before its funding ran out last year. 'Nobody wants to be cruel to them, but nobody has money for the vet either,' she said, gesturing at a group of five dogs sleeping outside a shuttered shopfront.",
+      "What struck us most was not the animals but how normalized the coexistence has become. Nobody we talked to described the situation as a crisis. It is simply the daily texture of a neighborhood that the rest of the city has mostly stopped thinking about.",
+      "There is no redevelopment plan on file for the district as of this writing, and no sterilization funding scheduled to resume. Both the dogs and the families who feed them will likely still be there next year, same as this one."
+    ]
+  },
+  {
+    "id": 4,
+    "category": "Visas",
+    "subcategory": "The Law",
+    "title": "The Visa Rules Nobody Explains Upfront",
+    "excerpt": "we talked to ten remote workers who got tripped up by paperwork nobody warned them about, and what they wish they'd known",
+    "author": "J. Prescott",
+    "date": "2026-08-19",
+    "likes": 83,
+    "comments": 21,
+    "color": "pink",
+    "image": "https://picsum.photos/seed/wire4/1200/900",
+    "body": [
+      "We talked to ten remote workers who each got tripped up by a different piece of visa paperwork nobody warned them about in advance, and the common thread across all ten was not confusion about the rules themselves but confusion about which rules applied to their specific situation versus a similar-sounding one.",
+      "One applicant assumed her sponsor letter requirements matched a friend's, only to discover mid-process that her friend held a different visa subcategory with different documentation entirely. Another lost three weeks after submitting a health certificate from a clinic not on the approved list, a list that exists but is not prominently linked from the main application guidance.",
+      "A third interviewee described the single most common trap among the group: assuming a visa agent's verbal confirmation was equivalent to an official document. 'He told me it was fine over the phone. Immigration wanted it in writing. Those are not the same thing,' she said, describing a two-week delay that resulted.",
+      "None of the ten described the underlying rules as unreasonable once they understood them. All ten described the process of finding out the specific rule that applied to them as unnecessarily indirect, usually requiring multiple visits or calls rather than a single clear source.",
+      "The pattern across all ten cases: verify document requirements directly with immigration or an official portal rather than relying on secondhand accounts, even from someone who went through a seemingly identical process recently."
+    ]
+  },
+  {
+    "id": 5,
+    "category": "Visas",
+    "subcategory": "Support Companies",
+    "title": "How One Founder Untangled Her Own Residency Permit",
+    "excerpt": "a conversation about the maze of local bureaucracy, and the workaround that finally got her paperwork approved",
+    "author": "B. Ellison and H. Ward",
+    "date": "2026-08-19",
+    "likes": 135,
+    "comments": 21,
+    "color": "pink",
+    "image": "https://picsum.photos/seed/wire5/1200/900",
+    "body": [
+      "A startup founder spent five months untangling her own residency permit after a paperwork error that originated, she eventually discovered, with a data entry mistake made by the agency she originally hired, not by immigration itself. The workaround that finally resolved it involved bypassing the agency entirely and dealing with a specific immigration office directly.",
+      "The original error was small: her sponsor company's registration number was transposed by one digit on her initial application, an error that did not surface until her first renewal attempt was rejected without a clear explanation of why. Her agency initially blamed immigration processing delays, a claim she says she believed for nearly two months before requesting the original submitted documents herself.",
+      "Once she compared the submitted paperwork against her company's actual registration certificate, the transposed digit was immediately visible. 'It took me ten minutes to find once I actually looked at the document side by side. It took the agency two months to admit there might be an error at all,' she said.",
+      "The workaround that resolved it was requesting an in-person meeting at the regional immigration office rather than continuing to route the correction through her original agency, a meeting she says took less than 30 minutes once she had the correct documentation in hand.",
+      "Her advice to anyone using an agency: request copies of everything submitted on your behalf immediately after submission, not after something goes wrong. Had she done that from the start, she believes the error would have surfaced in weeks rather than months."
+    ]
+  },
+  {
+    "id": 6,
+    "category": "News",
+    "title": "Fact-Check: The Viral Coworking Statistic Everyone Is Sharing",
+    "excerpt": "a popular claim about remote-worker growth has been circulating for months, but the original source says something different",
+    "author": "E. Sorensen",
+    "date": "2026-08-19",
+    "likes": 97,
+    "comments": 12,
+    "color": "pink",
+    "image": "https://picsum.photos/seed/wire6/1200/900",
+    "body": [
+      "A graphic claiming remote-worker registrations in Indonesia jumped 340 percent between 2023 and 2026 has been shared more than 40,000 times since July. It traces back to a single LinkedIn post from a coworking brand, not to any government dataset. The actual immigration figures, which we requested directly, show a 38 percent increase over the same period, a real number that got inflated roughly ninefold somewhere in the retelling.",
+      "The original post, from a marketing account tied to a Canggu coworking chain, cited 'internal booking data' without specifying what that meant or over what base. Somewhere around the third or fourth reshare, someone dropped the word 'bookings' and just wrote 'remote workers,' which is a different claim entirely. By August it was appearing in at least six listicles as an established fact.",
+      "We contacted the immigration directorate's data office, who confirmed 26,140 second-home and remote-work visa approvals in 2023 versus 36,070 in 2025. That is real growth, meaningfully so, and it did not need the extra zero. Inflating it just makes the correction inevitable and makes every future statistic from the same circle harder to trust.",
+      "This is not really a story about one bad graphic. It is a story about how a plausible-sounding number with no visible source spreads faster than the boring dataset that would have taken ten minutes to check."
+    ]
+  },
+  {
+    "id": 7,
+    "category": "Activities",
+    "title": "What I Learned Surfing With Strangers Every Sunday",
+    "excerpt": "a weekly meetup turned into the closest thing to community many remote workers here have ever had",
+    "author": "R. Kowalski",
+    "date": "2026-08-19",
+    "likes": 135,
+    "comments": 26,
+    "color": "dark",
+    "image": "https://picsum.photos/seed/wire7/1200/900",
+    "body": [
+      "A weekly Sunday surf meetup that started with four people paddling out together in 2023 now regularly draws 30 to 40 participants, and for a lot of remote workers here, it has become the closest thing to a stable social community they have found, closer than any coworking space or expat Facebook group managed to produce.",
+      "The structure is deliberately loose: show up at the same beach break at 7am on Sundays, no sign-up, no fee, no organizer beyond a rotating volunteer who tracks conditions and posts a go or no-go call the night before based on swell forecasts. Skill level ranges from complete beginners to people who surf daily, and nobody seems to mind the spread.",
+      "What surprised me most, after eighteen months of showing up most weeks, is how much of the actual bonding happens after the surfing, sitting on the sand comparing wipeouts, not during it. The shared, slightly humiliating experience of getting worked by the same wave seems to build rapport faster than any structured networking event I've sat through.",
+      "Several regulars have gone on to become housemates, business collaborators, or in at least two cases I know of, started dating, none of which was the stated purpose of the meetup and all of which happened anyway as a byproduct of showing up consistently.",
+      "The meetup has no formal structure and no plans to add one. Whether that informality is exactly why it works, or whether it will eventually need some structure to survive its own growth, is an open question nobody organizing it seems eager to solve prematurely."
+    ]
+  },
+  {
+    "id": 8,
+    "category": "Activities",
+    "title": "My Weekend at an Exclusive Farming Retreat",
+    "excerpt": "inside a private gathering deep in the countryside to save the family farm through the power of automation (and capitalism)",
+    "author": "H. Ward",
+    "date": "2026-08-15",
+    "likes": 89,
+    "comments": 15,
+    "color": "dark",
+    "image": "https://picsum.photos/seed/wire8/1200/900",
+    "body": [
+      "A private weekend retreat held on a working farm two hours outside the city billed itself as a gathering to 'save the family farm through automation,' charging 4,500,000 rupiah per attendee for what turned out to be a mix of genuine agricultural technology demonstrations and fairly standard startup networking dressed in flannel.",
+      "About 45 people attended, split roughly evenly between actual farming families exploring automation tools and remote-work professionals paying to experience a curated version of rural life for a weekend. The organizers, a small agtech company, demonstrated soil sensors, automated irrigation timing, and a drone-based crop monitoring system, all of which appeared to be real, functioning products rather than vaporware.",
+      "The tension in the room, which nobody addressed directly from the stage, was between the stated mission of helping struggling farm families and the price tag, which put actual attendance out of reach for most farm families without a sponsor covering the fee. Several attendees I spoke with acknowledged this gap without having a clean answer for it.",
+      "One farming family attending on a sponsored ticket said the automation tools were genuinely useful and that they'd likely adopt the irrigation system, putting the actual value of the weekend above the awkwardness of its framing.",
+      "Whether the event's stated mission or its actual business model, selling automation product demos to a paying crowd of mostly non-farmers, is the real point is a question the organizers did not seem eager to resolve either."
+    ]
+  },
+  {
+    "id": 9,
+    "category": "Schools",
+    "subcategory": "High School",
+    "title": "Why This International School Has a Two-Year Waitlist",
+    "excerpt": "demand for bilingual classrooms has outpaced supply, and parents are booking spots before their kids are even born",
+    "author": "K. Bellweather",
+    "date": "2026-08-14",
+    "likes": 186,
+    "comments": 8,
+    "color": "dark",
+    "image": "https://picsum.photos/seed/wire9/1200/900",
+    "body": [
+      "One international school's waitlist now runs two full years deep, with parents reportedly submitting applications during pregnancy to secure a spot before their child is even born. The school confirmed a current waitlist of 340 names against an annual intake of roughly 90 new students across all grades.",
+      "The demand surge traces back to a combination of factors the admissions director walked us through: a wave of families relocating for remote work since 2022, a shortage of comparable bilingual programs elsewhere in the city, and the school's own decision not to expand capacity despite the growing list, citing space and teacher-recruitment limits.",
+      "One parent who applied while pregnant with her second child said she did it after watching a friend miss the window with her first, ending up on a two-year wait that pushed the child's eventual start date back by a full academic year. 'Nobody tells you the waitlist math until you're already behind on it,' she said.",
+      "The school's admissions director confirmed there is no fast-track or priority mechanism beyond sibling preference for families already enrolled, meaning even well-connected new applicants join the list at the same point as everyone else.",
+      "With no capacity expansion currently planned, the two-year wait is likely to hold steady or lengthen rather than shorten in the near term, according to the admissions office's own projection."
+    ]
+  },
+  {
+    "id": 10,
+    "category": "Jobs",
+    "title": "The Six-Figure 'Being Human' Bonus",
+    "excerpt": "after investing billions in automation, a major consulting firm is now paying bonuses for soft skills machines can't replicate",
+    "author": "T. Faraday",
+    "date": "2026-08-12",
+    "likes": 74,
+    "comments": 9,
+    "color": "pink",
+    "image": "https://picsum.photos/seed/wire10/1200/900",
+    "body": [
+      "A major consulting firm operating in the region began offering a bonus, informally called the 'human premium' internally, worth up to 15 million rupiah annually to staff who score highest on client-facing soft skills, after investing heavily in automation tools over the past three years that replaced a significant share of junior analytical work.",
+      "The bonus structure, described to us by two employees who asked not to be named, evaluates things like client relationship management, negotiation, and the ability to read a room during a tense meeting, skills the firm's own internal memo reportedly described as 'currently outside automatable scope.' Roughly 180 employees across the regional office qualified for some tier of the bonus in its first year.",
+      "One recipient, a project manager with nine years at the firm, said the bonus felt like an acknowledgment that the firm's own automation push had gutted enough junior roles that senior relationship skills became scarcer and more valuable by default. 'They automated away the people who might have grown into these skills. Now they're paying extra for whoever's left with them,' she said.",
+      "The firm declined to comment on total automation-related headcount reduction over the same period, though two former employees estimated the regional office shrank by around 22 percent since 2023, mostly in entry-level analytical roles now handled by internal AI tools.",
+      "The human premium bonus is scheduled for its second annual review this coming January, with no public indication yet of whether eligibility criteria will expand or tighten."
+    ]
+  },
+  {
+    "id": 11,
+    "category": "Food",
+    "title": "Trash-Panda-ing Our Way to a Better Warung",
+    "excerpt": "a shortage of basic kitchen equipment is exposing how far small local eateries have drifted from their own supply chain",
+    "author": "B. Ellison",
+    "date": "2026-08-10",
+    "likes": 61,
+    "comments": 7,
+    "color": "dark",
+    "image": "https://picsum.photos/seed/wire11/1200/900",
+    "body": [
+      "A shortage of basic kitchen equipment, specifically commercial-grade gas burners and stainless steel prep tables, has been quietly hitting small local warungs for the past several months, and the cause traces back further than most owners realize: a supply chain that most small operators never controlled directly to begin with.",
+      "Most warung owners we spoke with buy equipment secondhand or through a small number of local suppliers rather than importing directly, a system that worked fine until a wave of larger restaurant openings in the area started buying up the same limited secondhand equipment pool, driving prices up and availability down for everyone else.",
+      "One warung owner described paying nearly double for a replacement burner this year compared to what she paid for the same equipment in 2023, not because the manufacturer raised prices but because the local secondhand market simply has fewer units circulating relative to demand.",
+      "A handful of owners have started what one called 'trash-panda-ing,' informally scavenging and refurbishing equipment from closed restaurants and renovations rather than buying new or even secondhand through normal channels, a workaround born entirely out of the supply gap rather than any particular thriftiness.",
+      "The shortage has exposed how thin the actual supply chain supporting small local eateries really is, a system nobody designed deliberately and nobody seems positioned to fix quickly."
+    ]
+  },
+  {
+    "id": 12,
+    "category": "Accommodations",
+    "title": "Penny For Our Thoughts? Rating the Cheapest Villas in Town",
+    "excerpt": "a new reader survey on budget stays raises old questions about hidden fees and what 'all-inclusive' actually means",
+    "author": "E. Sorensen",
+    "date": "2026-08-09",
+    "likes": 52,
+    "comments": 6,
+    "color": "pink",
+    "image": "https://picsum.photos/seed/wire12/1200/900",
+    "body": [
+      "A reader survey on budget villa stays this year collected 210 responses and surfaced a recurring complaint that has nothing to do with the room rate itself: the gap between an 'all-inclusive' listing description and what guests were actually charged once they checked out.",
+      "The cheapest villas surveyed advertised nightly rates as low as 250,000 rupiah, genuinely competitive for the category. But 64 percent of respondents staying at villas under 400,000 rupiah a night reported at least one unlisted fee at checkout, most commonly a cleaning fee, a service charge, or a 'facility fee' that appeared nowhere in the original booking confirmation.",
+      "One respondent's total bill came in 38 percent above the quoted nightly rate once a cleaning fee, a generator surcharge for backup power during an outage, and a service charge were added, none of which were disclosed at the time of booking through the platform she used.",
+      "'All-inclusive' as a marketing term is not standardized or regulated in this market, meaning it functions more as a vibe than an enforceable promise, a distinction several respondents said they learned the hard way and only once.",
+      "Our practical takeaway from the survey: request an itemized total price in writing before confirming any budget villa booking, since the advertised nightly rate and the actual departure bill were the same number in barely a third of the responses we collected."
+    ]
+  },
+  {
+    "id": 13,
+    "category": "News",
+    "title": "Inside the Quiet Race to Build Faster Local Internet",
+    "excerpt": "a handful of startups are betting that neighborhood fiber, not satellite links, is the fastest path to reliable connectivity",
+    "author": "R. Doyle",
+    "date": "2026-08-06",
+    "likes": 45,
+    "comments": 5,
+    "color": "dark",
+    "image": "https://picsum.photos/seed/wire13/1200/900",
+    "body": [
+      "Three startups in Bali and Yogyakarta are laying neighborhood fiber lines instead of waiting on satellite internet to fix rural connectivity. The largest, a company called Jaringan Cepat founded in 2024, has strung cable to 4,200 households across 14 villages as of this August. Their pitch is blunt: satellite latency is fine for email, bad for video calls, and useless for anyone doing real-time trading or gaming.",
+      "The founder, a former telecom engineer named Yoga Pranata, told us the company spent its first eight months just negotiating right-of-way with village heads rather than laying cable. 'The technical part took six weeks. The permission part took most of a year,' he said. That ratio surprises nobody who has tried to get anything built here.",
+      "Competing satellite providers argue fiber does not scale to genuinely remote areas, and they have a point: Jaringan Cepat's coverage map stops abruptly at anywhere without an existing road. Their own installation cost estimate runs around 1.8 million rupiah per household, which only pencils out in clusters dense enough to share the expense.",
+      "Average measured latency on their network sits at 11 milliseconds versus 600 to 800 milliseconds on the satellite alternative most remote workers were using in 2024. For anyone whose job depends on a stable connection rather than just an available one, that gap is the entire story.",
+      "Whether the model scales past the current 14 villages depends on financing nobody has confirmed yet. For now it works exactly where the geography and the paperwork both cooperate, which is a narrower map than the company's marketing suggests."
+    ]
+  },
+  {
+    "id": 14,
+    "category": "Accommodations",
+    "title": "The Coliving House That Runs Itself, Mostly",
+    "excerpt": "a look inside a shared house where chores are automated and the residents who still make it work",
+    "author": "N. Okafor",
+    "date": "2026-08-03",
+    "likes": 38,
+    "comments": 4,
+    "color": "pink",
+    "image": "https://picsum.photos/seed/wire14/1200/900",
+    "body": [
+      "A coliving house serving 18 residents runs on an automated chore rotation system, a shared app that assigns cleaning, trash, and common-area tasks on a weekly rotating basis, with the stated goal of running the house without a live-in manager. In practice, the house still depends heavily on two residents who have quietly taken on an informal management role the app cannot replace.",
+      "The app itself handles the mechanical part well: it tracks whose turn it is for which task, sends reminders, and logs completion, cutting down on the kind of chore disputes that sink most shared houses. What it does not handle is judgment calls, a broken water heater, a guest overstaying their welcome, a dispute over noise, and those consistently land on the same two residents by default.",
+      "One of the two informal managers, who has lived in the house for over a year, said she never signed up for the role and does not get compensated for it beyond a modest rent discount the house's owner arranged informally after noticing how much she was handling. 'The app runs the chores. It doesn't run the actual problems,' she said.",
+      "Other residents we spoke with were largely unaware how much informal labor these two residents were absorbing, assuming the smooth day-to-day operation was simply the automation working as advertised.",
+      "The owner has not formalized any compensation structure for the informal management role as of this writing, leaving the house's actual stability resting on two people's continued willingness to keep doing unpaid work the marketing does not mention."
+    ]
+  },
+  {
+    "id": 15,
+    "category": "Places",
+    "subcategory": "Cities",
+    "title": "The Neighborhood Meeting That Broke the Local Internet",
+    "excerpt": "a routine zoning hearing about a new coworking space turned into a viral flashpoint overnight",
+    "author": "J. Prescott",
+    "date": "2026-08-01",
+    "likes": 29,
+    "comments": 3,
+    "color": "dark",
+    "image": "https://picsum.photos/seed/wire15/1200/900",
+    "body": [
+      "A zoning hearing scheduled for July 30 to discuss a permit application for a new coworking space on a quiet residential street pulled maybe 40 attendees under normal circumstances. Instead a video clip of one resident's testimony, taken out of the two-hour meeting's full context, hit 1.2 million views on social media within 36 hours.",
+      "The clip showed a homeowner arguing the coworking space would bring 'foreigners at all hours' and increase noise, framed by the person who posted it as either xenophobic overreach or legitimate community concern depending on which comment section you read. The fuller recording, which we watched in full, includes the same resident later clarifying she meant traffic and parking specifically, a distinction that did not survive the 40-second cut.",
+      "The permit itself, for an eight-desk space in a converted house, was tabled pending a traffic study, a routine outcome for zoning applications near residential streets that has nothing to do with the viral controversy. The applicant, contacted after the clip spread, said she had gotten messages from strangers in four countries and none of them understood the actual permit process being discussed.",
+      "What is notable is not the underlying zoning dispute, which is mundane and happens weekly across the city, but how completely disconnected the online reaction became from the actual two-hour meeting. Nobody who shared the clip attended the hearing or read the agenda.",
+      "The traffic study is due back in October. Whatever the meeting decides then will almost certainly get a fraction of the attention the original clip did."
+    ]
+  },
+  {
+    "id": 16,
+    "category": "Jobs",
+    "title": "Job Alert: We're Hiring",
+    "excerpt": "we're looking for writers who want to chase stories nobody else is telling",
+    "author": "Editorial",
+    "date": "2026-07-29",
+    "likes": 49,
+    "comments": 8,
+    "color": "dark",
+    "image": "https://picsum.photos/seed/wire16/1200/900",
+    "body": [
+      "We are hiring writers. Not entry-level content mill work, actual reporting: verifying claims, calling sources, sitting through zoning meetings nobody else wants to attend. If your idea of a good story starts with a public records request rather than a press release, this is the job.",
+      "Pay starts at 8 million rupiah per month for a full-time staff position, with a per-piece freelance rate available for contributors who want to pitch specific stories rather than commit full time. We are a small team, currently seven writers and two editors, covering visas, housing, schools, food, and local news across the region.",
+      "What we are not looking for: listicles, sponsored content dressed up as journalism, or anyone whose primary qualification is a large social media following. What we are looking for: someone who will spend three days confirming a number before publishing it, and who finds bureaucratic absurdity more interesting than annoying.",
+      "Send three writing samples and one story pitch to our editorial inbox. We read everything that comes in, and we respond to every applicant, which apparently makes us unusual in this industry.",
+      "No specific deadline on this posting. We will pull it down once the roles are filled and not a day before."
+    ]
+  },
+  {
+    "id": 17,
+    "category": "Schools",
+    "subcategory": "College",
+    "title": "The Homeschool Co-op Betting Against Traditional Classrooms",
+    "excerpt": "as more families relocate here, one small group is betting the future of schooling looks nothing like a building",
+    "author": "K. Bellweather",
+    "date": "2026-07-27",
+    "likes": 33,
+    "comments": 5,
+    "color": "pink",
+    "image": "https://picsum.photos/seed/wire17/1200/900",
+    "body": [
+      "A homeschool co-op with 34 enrolled families is betting that the future of schooling for the area's growing remote-work population looks less like a traditional classroom and more like a loosely structured network of parent-led pods, each handling a handful of subjects for a mixed-age group of six to ten kids.",
+      "The co-op, founded in 2023, runs on a rotating model: parents with specific expertise, one runs the science sessions, another handles math, teach their subject to the combined group two to three times a week, with the rest of each child's education handled independently at home under a curriculum the co-op selects collectively each year.",
+      "One founding parent described the appeal as largely economic and logistical rather than ideological: full-year international school tuition in the area runs well above what most co-op families are comfortable paying, and the co-op model costs roughly a fifth of that per child, split across shared costs for space rental and materials.",
+      "Critics within the broader school community, including staff at nearby traditional schools we spoke with, questioned whether the model provides the accreditation and structured record-keeping that would let a child transfer smoothly into a conventional school system later, a concern the co-op's organizers acknowledge but have not yet resolved.",
+      "The co-op is accepting a limited number of new families for the upcoming term, capped, organizers say, specifically to keep group sizes small enough for the rotating-parent model to keep working."
+    ]
+  },
+  {
+    "id": 18,
+    "category": "Food",
+    "title": "Inside the Last Independent Warung in the Old Market",
+    "excerpt": "as delivery apps swallow the industry, one owner explains why she refuses to close her doors",
+    "author": "T. Faraday",
+    "date": "2026-07-24",
+    "likes": 21,
+    "comments": 2,
+    "color": "dark",
+    "image": "https://picsum.photos/seed/wire18/1200/900",
+    "body": [
+      "The last fully independent warung in the old market district has survived eleven years while delivery apps and chain competitors reshaped the surrounding food scene almost entirely around them, and the owner, who has run it since 2015, has a specific, unsentimental reason for refusing to close.",
+      "Delivery platform commissions, which she calculated at around 25 to 30 percent of each order's value, would eat most of her already thin margins if she joined, a calculation she redid every year as competitors around her signed on one by one. 'I watched three neighbors join the apps and raise their prices to cover the commission. Then they lost the regulars who came for the old price,' she said.",
+      "Her customer base, built almost entirely on repeat local visits rather than app discovery, has stayed remarkably stable through a period when foot traffic in the surrounding market dropped an estimated 35 percent as shoppers shifted to delivery and larger supermarkets. She credits this to pricing she has held nearly flat for three years, a decision that costs her on rising ingredient costs but keeps her regulars coming back.",
+      "She is not opposed to technology in general, she uses a basic point-of-sale app for her own inventory tracking, but draws a hard line at anything that takes a percentage of each sale on top of what she already pays in rent and ingredients.",
+      "Whether her model survives another decade depends on the market itself surviving as a viable retail location, a bigger question than any single warung's business strategy can answer on its own."
+    ]
+  },
+  {
+    "id": 19,
+    "category": "News",
+    "title": "Rp 2 Million Says the New Tax Circular Doesn't Mean What Facebook Thinks",
+    "excerpt": "a screenshot of a tax office memo is going around with the wrong conclusion attached. here is what it actually says",
+    "author": "J. Marlowe",
+    "date": "2026-07-20",
+    "likes": 58,
+    "comments": 11,
+    "color": "dark",
+    "image": "https://picsum.photos/seed/wire19/1200/900",
+    "body": [
+      "A circular from the regional tax office dated August 4 has been screenshotted and shared with a caption claiming any foreigner earning income abroad while living in Indonesia now owes tax on that full amount at a flat 30 percent rate. That is not what the circular says. It clarifies documentation requirements for existing tax residency rules that have applied since 2022, and changes nothing about who owes what.",
+      "The actual text, four paragraphs long, instructs regional offices on how to process NPWP registrations for holders of the second-home visa category. It references an existing threshold: 183 days of physical presence in a 12-month period triggers tax residency, same as before. Nothing in the circular introduces a new rate or a new category of taxable income.",
+      "We spoke with a tax consultant in Denpasar, R. Hutagalung, who has fielded at least 40 panicked client calls since the screenshot started circulating. 'People are reading paperwork instructions as a rate change. It's an administrative memo. The confusion is costing my clients billable hours for nothing,' he said.",
+      "The Rp 2 million figure in the viral version appears nowhere in the source document. Best we can tell, it originated from an unrelated forum post about a completely different registration fee and got merged into the tax scare sometime around August 10.",
+      "If you are on a second-home visa and spend more than half the year here, the existing rules already applied to you before this circular and continue to apply after it. Nothing changed except which office processes your paperwork."
+    ]
+  },
+  {
+    "id": 20,
+    "category": "News",
+    "title": "The Power Outage Schedule Nobody Posts Until It Happens",
+    "excerpt": "three neighborhoods lost power twice this month with zero warning. the utility company's own hotline gave three different answers",
+    "author": "E. Sorensen",
+    "date": "2026-07-18",
+    "likes": 41,
+    "comments": 9,
+    "color": "dark",
+    "image": "https://picsum.photos/seed/wire20/1200/900",
+    "body": [
+      "Three neighborhoods in the Ubud area lost grid power twice in the same week this July with no advance notice posted anywhere. Residents in Nyuh Kuning, Penestanan, and part of central Ubud reported outages lasting between 40 minutes and just over three hours. Nobody disputes it happened. Getting a straight answer on why took calling the utility hotline four separate times.",
+      "The first call got 'scheduled maintenance,' the second got 'a fault on the transmission line,' and the third got a representative who said there was no record of any outage in that area at all, despite it being reported by at least 30 households. A fourth call, placed by a colleague using a different phone number, got a fourth explanation: overload from new construction load nearby.",
+      "None of these answers necessarily contradict each other, but none of them came with a posted schedule, a case number, or any way to verify which one was accurate. The utility's own outage map, which technically exists, had not been updated since May according to its own timestamp.",
+      "This is not new. Long-term residents keep a mental list of which months bring outages and just plan around it rather than expecting notice. What changed this year is that two outages inside one week is unusual even by that low bar.",
+      "If you want actual warning, the more reliable method locals use is a neighborhood WhatsApp group, not the utility's hotline or website. That is not a workaround anyone should have to use for basic infrastructure information, but it is the one that currently works."
+    ]
+  },
+  {
+    "id": 21,
+    "category": "News",
+    "title": "Immigration Quietly Changed a Form. Nobody Told the Agents Selling It.",
+    "excerpt": "the old version is still being sold at three agencies we checked. using it costs you a resubmission and a week",
+    "author": "R. Doyle",
+    "date": "2026-07-15",
+    "likes": 67,
+    "comments": 13,
+    "color": "pink",
+    "image": "https://picsum.photos/seed/wire21/1200/900",
+    "body": [
+      "Immigration updated the sponsor letter template for KITAS applications on July 2, changing two required fields without a public announcement beyond a notice buried on the directorate's own portal. Three agencies we checked in Denpasar were still selling the old version as of July 14, twelve days after the change took effect.",
+      "The difference looks trivial: the new form requires the sponsoring company's tax ID formatted with hyphens in a specific pattern, and adds a field for the applicant's local emergency contact that the old form does not have. Submit the old version and immigration does not flag it at intake. It gets rejected two to three weeks later, after you have already been waiting.",
+      "We asked one agency, which we are not naming because they corrected the issue after our call, why they had not updated their template. Their answer was that immigration does not send agencies a change notice directly, so agencies find out the same way applicants do: from a rejected submission. That is a genuinely bad system, not an excuse, but it is apparently how it works.",
+      "The practical cost of using the old form is a resubmission and roughly a week of lost processing time, sometimes more if it happens near a public holiday when offices run reduced hours. One applicant we spoke with, on his second KITAS renewal, lost nine days this way.",
+      "Before you submit anything through an agency, ask them directly when their sponsor letter template was last updated and compare the date to July 2, 2026. If they cannot answer the question, that is itself an answer."
+    ]
+  },
+  {
+    "id": 22,
+    "category": "News",
+    "title": "The Rp 50,000 Fine That Actually Costs Rp 500,000 If You Argue",
+    "excerpt": "a minor traffic stop explains more about how enforcement actually works here than any guidebook will tell you",
+    "author": "B. Ellison",
+    "date": "2026-07-12",
+    "likes": 74,
+    "comments": 19,
+    "color": "dark",
+    "image": "https://picsum.photos/seed/wire22/1200/900",
+    "body": [
+      "A routine traffic stop for an expired STNK sticker carries a posted fine of Rp 50,000 if you accept it on the spot. Argue with the officer, ask for a formal ticket, or request to pay at the court instead, and the process shifts into a different track entirely, one that regularly ends closer to Rp 500,000 once administrative fees and a mandatory court date get added.",
+      "This is not corruption in the cartoonish sense people imagine before they arrive. It is two legitimate, parallel enforcement paths: an on-the-spot settlement (tilang di tempat) and a formal court process (sidang). The first is fast and cheap. The second is your legal right and also slower, more expensive, and requires you to show up in person on a scheduled date you may not be in the country for.",
+      "A traffic law researcher we spoke with, D. Simatupang, put it plainly: 'Foreigners hear the on-the-spot fine described as a bribe and refuse it on principle, then get shocked the official process costs ten times more. Both numbers are real and both are legal.' He estimates fewer than one in twenty foreign riders understand the two-track system before their first stop.",
+      "None of this means every roadside negotiation is legitimate; extracting cash with no ticket at all is a separate, actual problem. But the specific pattern of 'refuse the small fine, get hit with a bigger official one' is not a scam. It is the system working exactly as designed, just not as anyone explains it in advance.",
+      "If your paperwork is genuinely in order, none of this applies. If it is not, the fast Rp 50,000 settlement is almost always the cheaper outcome, principle aside."
+    ]
+  },
+  {
+    "id": 23,
+    "category": "News",
+    "title": "Three Banks, Three Different Answers on the Same Wire Transfer Rule",
+    "excerpt": "we called every major bank branch in town asking the same question. only one gave an answer that matched the actual regulation",
+    "author": "K. Bellweather",
+    "date": "2026-07-08",
+    "likes": 39,
+    "comments": 6,
+    "color": "dark",
+    "image": "https://picsum.photos/seed/wire23/1200/900",
+    "body": [
+      "We called the Denpasar, Ubud, and Sanur branches of four major national banks asking the identical question: does an incoming wire transfer over 100 million rupiah trigger an automatic reporting hold, and if so for how long. We got seven different answers across twelve calls, and only one branch cited a hold period that matched the actual Bank Indonesia regulation on file.",
+      "Two branches said there was no reporting threshold at all, which is incorrect; the regulation has applied since 2021. Three branches quoted hold periods ranging from same-day to five business days. One branch transferred us to a call center that could not locate any policy document and read us a general FAQ about international transfers instead.",
+      "The one accurate answer came from a Sanur branch of a bank we are not naming for this piece, where the teller correctly cited the 24-hour compliance review window and referenced the specific reporting form by name. When we asked how she knew this and others didn't, she said it came up often enough with foreign clients that she'd looked it up herself.",
+      "This is not a story about one bank being incompetent. It is a story about frontline staff at every major institution getting inconsistent internal training on a rule that directly affects how long your money is inaccessible after a transfer.",
+      "If you are moving a large sum, budget for the regulation as written rather than whatever the first teller tells you, and get any hold period stated in writing before you send anything."
+    ]
+  },
+  {
+    "id": 24,
+    "category": "News",
+    "title": "The Rainy Season Flood Map the City Won't Publish",
+    "excerpt": "we built it ourselves from five years of resident reports, because the official version stops updating every october",
+    "author": "N. Okafor",
+    "date": "2026-07-05",
+    "likes": 88,
+    "comments": 22,
+    "color": "pink",
+    "image": "https://picsum.photos/seed/wire24/1200/900",
+    "body": [
+      "We built a flood risk map for greater Denpasar and the southern Bali corridor using five years of resident-submitted reports, because the city's own flood advisory page stops updating every October and does not resume until the following rainy season, sometimes later. The gap is not an accident of timing; two separate city officials told us off the record it is a staffing and budget issue that recurs annually.",
+      "Our dataset pulls from 1,140 individual reports submitted through neighborhood WhatsApp groups and a public form we ran from 2021 through this year. Cross-referencing them against elevation data produced a much finer-grained hazard map than the last officially published version, which dates to 2019 and predates at least three major drainage projects.",
+      "The clearest finding: intersections near Jalan Sunset Road and the Tukad Badung canal flood at a rainfall threshold roughly 30 percent lower than the official map assumes, almost certainly because of unlisted construction upstream that changed runoff patterns. Nobody updated the model to reflect it.",
+      "We are publishing our version with the caveat that it is resident data, not survey-grade engineering, and it will have gaps the official map, if it existed, might not. But an imperfect map that gets updated beats an official one that goes dark for eight months a year.",
+      "The city's public works office did not respond to three requests for comment on when, or whether, the official version will resume regular updates."
+    ]
+  },
+  {
+    "id": 25,
+    "category": "News",
+    "title": "Why Your Landlord's WhatsApp Silence Isn't Personal",
+    "excerpt": "a pattern across forty interviews with long-term renters explains the three-day response lag that drives every newcomer crazy",
+    "author": "T. Faraday",
+    "date": "2026-07-01",
+    "likes": 31,
+    "comments": 7,
+    "color": "dark",
+    "image": "https://picsum.photos/seed/wire25/1200/900",
+    "body": [
+      "Forty interviews with long-term renters across Bali and Yogyakarta turned up the same pattern: landlords go silent on WhatsApp for an average of three days before responding to maintenance requests, price negotiations, or lease questions, and almost none of them intend it as a slight.",
+      "The explanation nearly every renter eventually landed on, sometimes after years of assuming otherwise, is that many landlords are managing the property as one obligation among several, often alongside a farm, a small business, or a day job unrelated to real estate. Renting is not their full-time occupation the way it is for a Western-style property manager, so it does not get answered on a Western-style timeline.",
+      "One renter, a five-year resident of Sanur, told us she spent her first year assuming the delay meant something was wrong or that she had offended her landlord somehow. 'I found out later he was just at the rice fields most of the day and checked his phone at night,' she said. Once she adjusted her expectations to a 72-hour response window rather than same-day, the relationship improved considerably, in her account, with nothing about the landlord's behavior actually changing.",
+      "This does not mean every slow response is benign; some landlords are simply unresponsive by nature, same as anywhere. But the specific three-day pattern showing up across 40 separate interviews suggests something structural rather than personal.",
+      "Set your expectations at 72 hours before escalating, and you will save yourself a lot of unnecessary anxiety over a delay that was never about you."
+    ]
+  },
+  {
+    "id": 26,
+    "category": "News",
+    "title": "The Import Duty Loophole That Closed Last Tuesday",
+    "excerpt": "if you ordered equipment before the change you got lucky. here is exactly what shifted and who it hits hardest",
+    "author": "J. Prescott",
+    "date": "2026-06-27",
+    "likes": 44,
+    "comments": 10,
+    "color": "dark",
+    "image": "https://picsum.photos/seed/wire26/1200/900",
+    "body": [
+      "An import duty exemption that let remote workers bring in personal electronics valued under 1,500 US dollars without paying the standard 15 to 30 percent tariff closed on June 23 with almost no advance notice. Equipment ordered and shipped before that date under the old rule still clears at the exemption. Anything arriving after does not, regardless of when it was purchased.",
+      "The change came through a customs directorate circular that adjusted the personal-use exemption threshold down to 500 US dollars, a category that most laptops, monitors, and camera equipment now exceed. Customs brokers we spoke with said the shift was communicated internally two weeks before it became public, giving people with contacts inside logistics companies a window that ordinary shoppers did not get.",
+      "One freelance video editor who ordered a camera body on June 19 said it cleared under the old exemption with no issue, arriving June 28. A colleague who ordered a nearly identical setup on June 25 was hit with 940,000 rupiah in duties on arrival, a difference that came down entirely to which side of the deadline the order fell on.",
+      "The people hit hardest are exactly the remote workers this publication covers: anyone replacing a laptop, camera, or monitor from abroad rather than buying locally, where prices for equivalent gear run 20 to 40 percent higher.",
+      "If you are planning an equipment order from overseas, budget for the current 500 dollar threshold rather than assuming the older, more generous exemption still applies. It does not, and there is no indication it is coming back."
+    ]
+  },
+  {
+    "id": 27,
+    "category": "News",
+    "title": "Local Election Season Means Road Closures Nobody Announces",
+    "excerpt": "campaign convoys shut down two main roads three times last week with no notice. here is how to actually find out in advance",
+    "author": "R. Kowalski",
+    "date": "2026-06-24",
+    "likes": 26,
+    "comments": 4,
+    "color": "pink",
+    "image": "https://picsum.photos/seed/wire27/1200/900",
+    "body": [
+      "Campaign convoys for the regional election shut down the two main arteries through central Ubud three separate times in the space of one week this June, each time with zero advance public notice. Residents reported delays running 45 minutes to over an hour, with no detour signage and no posted schedule anywhere official.",
+      "The closures are legal; campaign convoys have standing permission to use main roads during the designated campaign period, which runs six weeks before the vote. What is not published anywhere centralized is the actual route and timing for any specific convoy on any specific day, leaving residents to find out by driving directly into it.",
+      "The one workaround that consistently works, according to three separate local drivers we asked, is checking the specific sub-district's Instagram account rather than any official government channel; local sub-district offices tend to post convoy routes the morning of, sometimes the night before, because they are the ones actually coordinating road access with police on the ground.",
+      "District election commission staff we contacted confirmed there is no centralized public notice requirement for convoy routing, only a requirement that convoys notify local police, who are not obligated to publish anything for residents.",
+      "Election season runs through early October this cycle. Following the relevant sub-district's social media account is currently the only reliable early-warning system, which is not a satisfying answer but is the accurate one."
+    ]
+  },
+  {
+    "id": 28,
+    "category": "News",
+    "title": "The Currency Exchange Rate Trick Every Money Changer Runs",
+    "excerpt": "the displayed rate and the rate you get are rarely the same number. here is the math they don't want you doing",
+    "author": "H. Ward",
+    "date": "2026-06-20",
+    "likes": 52,
+    "comments": 8,
+    "color": "dark",
+    "image": "https://picsum.photos/seed/wire28/1200/900",
+    "body": [
+      "Money changers along the main strips in Kuta and Ubud advertise rates in large numbers on street-facing boards that are rarely the rate you actually receive. The trick is not illegal and does not require any hidden fee; it works entirely through how the displayed number is calculated versus how the transaction is executed.",
+      "The advertised rate is typically the buy rate for large volume transactions, often 50 million rupiah equivalent or more. Walk in to exchange 200 US dollars and you get quoted a different, worse rate, sometimes 3 to 5 percent below the posted board number, because you are below the volume threshold the sign was calculated for. Nothing on the sign discloses this threshold.",
+      "A second, more aggressive version of the same trick involves a two-step counting process: the teller counts your bills once, quotes a total, then recounts before handing over cash and quotes a slightly lower final number, banking on the customer not tracking the math closely enough to object. We watched this happen twice during an afternoon of observing transactions at three different counters.",
+      "The math that protects you is simple: calculate your expected total using the displayed rate before you hand over any cash, say the number out loud, and count the returned cash yourself before leaving the counter. Reputable changers do not mind this. The ones who do are the ones worth avoiding.",
+      "Authorized money changers display a government registration number (PVA Berizin) near the rate board. Its absence is not proof of a scam, but its presence at least gives you somewhere to file a complaint if the math does not add up."
+    ]
+  },
+  {
+    "id": 29,
+    "category": "Places",
+    "subcategory": "Provinces",
+    "title": "The Village Twenty Minutes From the Tourist Strip Nobody Mentions",
+    "excerpt": "same rice fields, quarter of the rent, and none of the traffic. the catch is the internet, and it's a real catch",
+    "author": "N. Okafor",
+    "date": "2026-06-16",
+    "likes": 96,
+    "comments": 17,
+    "color": "dark",
+    "image": "https://picsum.photos/seed/wire29/1200/900",
+    "body": [
+      "Twenty minutes from the main tourist strip by motorbike sits a village where a two-bedroom house rents for around 3.5 million rupiah a month, roughly a quarter of the equivalent in the tourist zone. Same rice field views, same rooster-at-dawn soundtrack, none of the traffic, and almost nobody from the coworking crowd has heard of it.",
+      "The reason is not a secret conspiracy to keep it hidden. It is infrastructure. Fiber internet has not reached the village as of this year, leaving residents dependent on 4G hotspots that slow to a crawl during evening peak hours, roughly 6 to 9pm, when everyone in the surrounding area is streaming something at once.",
+      "We stayed three nights to test it properly. Video calls before 4pm were fine, consistently above 20 Mbps. After 6pm, calls dropped or froze at least once per session across all three evenings, which for anyone doing client work on a fixed schedule is a real constraint, not a minor inconvenience.",
+      "A resident who moved there in 2023 and works in graphic design told us he schedules calls before 4pm specifically because of this, and pays for a backup SIM from a second carrier as insurance. 'The rent savings pay for the backup SIM ten times over,' he said, which is probably the most accurate one-line summary of the tradeoff.",
+      "If your work does not require real-time video after business hours, the village is a legitimately good deal. If it does, the quarter-price rent is not actually a discount once you factor in the workaround costs."
+    ]
+  },
+  {
+    "id": 30,
+    "category": "Places",
+    "subcategory": "Cities",
+    "title": "Why the Expat Facebook Groups All Recommend the Same Five Neighborhoods",
+    "excerpt": "it isn't because those five are the best. it's because nobody's updated the pinned post since 2019",
+    "author": "J. Prescott",
+    "date": "2026-06-12",
+    "likes": 63,
+    "comments": 14,
+    "color": "pink",
+    "image": "https://picsum.photos/seed/wire30/1200/900",
+    "body": [
+      "Ask any expat Facebook group for a neighborhood recommendation and you will get the same five names within minutes, nearly word for word, across groups with no overlap in membership. The consistency is not because those five neighborhoods are objectively the best fit for newcomers. It is because the pinned post most groups rely on for orientation was last substantively updated in 2019.",
+      "We checked the pinned recommendation posts in six of the largest groups. Four of them cite rent figures that are, on average, 35 percent below current asking prices, and three still list a coworking space that closed in 2022. Nobody moderating these groups has gone back to verify the content is current; pinned posts, once established, tend to just stay pinned.",
+      "Neighborhoods that have developed real infrastructure since 2019, cheaper rent, or better internet in that time simply never make it into rotation, because nobody is actively curating the list against present conditions. New members ask, get pointed at the same post, and the cycle perpetuates itself independent of whether the underlying information holds up.",
+      "We are not naming the specific five here, since the point is not to criticize those neighborhoods but the process that keeps recommending them by default rather than by current merit.",
+      "If you are relying on a Facebook group for orientation, check the post date before the content. A pinned post from 2019 is describing a city that has had seven years to change since then."
+    ]
+  },
+  {
+    "id": 31,
+    "category": "Places",
+    "subcategory": "Provinces",
+    "title": "The Beach Town That Banned New Villa Construction This Year",
+    "excerpt": "a moratorium passed with almost no coverage outside the local council minutes. here is what it actually restricts",
+    "author": "B. Ellison",
+    "date": "2026-06-08",
+    "likes": 71,
+    "comments": 12,
+    "color": "dark",
+    "image": "https://picsum.photos/seed/wire31/1200/900",
+    "body": [
+      "The local council in one southern beach town passed a one-year moratorium on new villa construction permits on May 28, a decision that got a single paragraph in the council's own published minutes and essentially no coverage anywhere else. We obtained the full text of the resolution to see what it actually restricts.",
+      "The moratorium applies specifically to new-build permits for structures exceeding two stories or 200 square meters, in a designated coastal buffer zone that covers roughly 40 percent of the town's developable land. It does not apply to renovations of existing structures, to villas already under construction with permits issued before May 28, or to anything outside the buffer zone, which leaves considerably more room to build than the word 'ban' implies.",
+      "A council member who voted for the measure told us the trigger was a groundwater study showing well levels in the buffer zone had dropped an average of 1.4 meters over the past five years, attributed largely to villa pool and irrigation demand outpacing the aquifer's recharge rate. 'We are not against building. We are against building faster than the water table can handle,' she said.",
+      "Developers with permits already in the pipeline are unaffected, which means construction in the area will likely continue at a visible pace for the next year or more even as no new applications get approved, a detail that has confused several residents who assumed the moratorium would be immediately visible on the ground.",
+      "The moratorium is scheduled for review next May, with renewal, expansion, or lapse all on the table depending on what a follow-up groundwater study finds."
+    ]
+  },
+  {
+    "id": 32,
+    "category": "Places",
+    "subcategory": "Cities",
+    "title": "Living Above a Mosque: What the Call to Prayer Schedule Actually Sounds Like",
+    "excerpt": "eighteen months of field notes on the one thing every rental listing conveniently leaves out of the description",
+    "author": "H. Ward",
+    "date": "2026-06-04",
+    "likes": 58,
+    "comments": 20,
+    "color": "pink",
+    "image": "https://picsum.photos/seed/wire32/1200/900",
+    "body": [
+      "We logged the call to prayer schedule from a rental directly above a neighborhood mosque for eighteen months, because every listing for the building described it only as 'close to local amenities' and left out the obvious. Five calls a day, starting around 4:30am and ending around 7:30pm, each running four to six minutes depending on the muezzin and the occasion.",
+      "The pre-dawn call, Subuh, is the one every new tenant asks about first and the one that matters least in practice; most residents report adjusting to it within two to three weeks, the same way people adjust to any recurring ambient sound. The calls that actually disrupt work are the midday and mid-afternoon ones, which land squarely inside a normal client-call schedule for anyone working odd hours with a Western time zone.",
+      "Volume varies significantly by mosque and by neighborhood; older, smaller mosques tend to run quieter equipment, while newer or larger ones invest in speaker systems audible several blocks out. We measured peak volume at our test location around 78 decibels from an open window, comparable to a loud conversation, dropping to background level with windows closed.",
+      "None of this is a complaint about the practice itself, which is a fixture of daily life across the region and not going anywhere. It is a gap in how rental listings describe properties, consistently omitting a detail that shapes daily scheduling for anyone doing remote work with fixed call times.",
+      "If proximity to a mosque matters to your work setup, ask directly and ask for the specific distance, not just 'nearby.' No listing we reviewed volunteered this information unprompted."
+    ]
+  },
+  {
+    "id": 33,
+    "category": "Places",
+    "subcategory": "Provinces",
+    "title": "The Mountain Town Where Rent Hasn't Moved in Six Years",
+    "excerpt": "everyone assumes it's because nobody wants to live there. the real reason is a land dispute nobody wants to settle",
+    "author": "R. Doyle",
+    "date": "2026-05-31",
+    "likes": 47,
+    "comments": 9,
+    "color": "dark",
+    "image": "https://picsum.photos/seed/wire33/1200/900",
+    "body": [
+      "Rent in one mountain town has not moved from its 2020 baseline in six years, a genuine outlier in a region where prices elsewhere climbed 25 to 60 percent over the same period. The common assumption, that nobody wants to live there, does not hold up; occupancy in existing rentals runs close to 90 percent.",
+      "The actual reason is a land dispute involving three families claiming overlapping inheritance rights to a significant portion of the town's developable land, a case that has been in and out of the district court since 2019 without resolution. Until ownership is settled, banks will not issue construction loans against the disputed parcels, and existing landlords holding adjacent, undisputed land have little incentive to raise rents when new competing supply cannot legally be built nearby.",
+      "A longtime resident who has watched the case from the sidelines put it this way: 'Everyone benefits from the freeze except the three families actually suing each other. Nobody else wants it to resolve quickly.' That incentive structure, more than any legal complexity, seems to be why the case moves so slowly.",
+      "Court records show the next hearing is scheduled for November, the fourth postponement since 2023. Local lawyers we spoke with were not optimistic it would be the last.",
+      "If you are chasing flat rent, the mountain town delivers on that specific metric. Just understand you are benefiting from a stalled lawsuit, not a hidden gem nobody discovered."
+    ]
+  },
+  {
+    "id": 34,
+    "category": "Places",
+    "subcategory": "Island",
+    "title": "Inside the Island That Charges Foreigners a Different Entry Fee",
+    "excerpt": "the dual pricing is legal, posted, and still catches almost every first-time visitor off guard",
+    "author": "K. Bellweather",
+    "date": "2026-05-27",
+    "likes": 39,
+    "comments": 6,
+    "color": "dark",
+    "image": "https://picsum.photos/seed/wire34/1200/900",
+    "body": [
+      "One island popular with day-trippers charges foreigners an entry fee roughly four times what Indonesian citizens pay at the same gate, a policy that is fully legal, posted at the ticket counter, and still catches most first-time visitors off guard. The current rates: 25,000 rupiah for domestic visitors, 100,000 for foreign visitors, set by regional regulation in 2023.",
+      "Dual pricing for entry to conservation and cultural sites is common practice across the country and is not unique to this island, but the size of the gap here is larger than most nearby comparable sites, which tend to run closer to double rather than quadruple. Revenue from the higher foreign rate goes toward a marine conservation fund according to signage at the dock, though the fund's actual annual disbursement is not published anywhere we could find.",
+      "Ticket sellers do not proactively explain the pricing structure; the sign is posted but small, and most visitors pay whatever price they are quoted verbally, which several travelers told us varied depending on which staff member was working the counter that day. We tested this ourselves across three visits and got three slightly different verbal quotes, all higher than the posted foreign rate.",
+      "None of the discrepancies we found were dramatic, on the order of 10,000 to 15,000 rupiah, but they were consistent enough to suggest the posted price and the collected price are not always the same number.",
+      "Bring exact change, check the posted sign yourself before paying, and ask for a receipt. The fee itself is legitimate. The verbal quote is worth double-checking against the sign every time."
+    ]
+  },
+  {
+    "id": 35,
+    "category": "Places",
+    "subcategory": "Cities",
+    "title": "The Neighborhood Where Every Cafe Closed and Reopened as a Coworking Space",
+    "excerpt": "four blocks, six conversions, one landlord raising rent every time a lease turns over",
+    "author": "E. Sorensen",
+    "date": "2026-05-23",
+    "likes": 55,
+    "comments": 11,
+    "color": "pink",
+    "image": "https://picsum.photos/seed/wire35/1200/900",
+    "body": [
+      "Four blocks of what used to be a mixed strip of independent cafes have gone through six full business conversions since 2021, each one ending with the same outcome: cafe closes, coworking space opens in its place, usually within two to four months. One landlord owns three of the four buildings on the block.",
+      "Lease terms obtained from two former cafe tenants show rent increases averaging 22 percent at each renewal point over the past five years, a rate that a coffee shop running on thin margins struggles to absorb but that a coworking operator charging desk fees and day passes can more easily pass through to members. Neither former tenant we spoke with was given an option to renegotiate before the increase took effect; both described it as a final number, not an opening offer.",
+      "The landlord, contacted through a property management company that handles his listings, declined to comment on specific rent figures but confirmed via the manager that coworking tenants are 'more reliable long-term' than food and beverage operators, which the manager offered as the general rationale for the pattern.",
+      "Independent cafe owners elsewhere on the same street told us they have started avoiding this specific block entirely when scouting new locations, aware of its reputation before signing anything. Word travels fast in a business community this size.",
+      "Four conversions in five years on one block is not necessarily proof of a citywide trend, but it is a clean case study in what happens when one landlord controls enough of a strip to set the terms for everyone on it."
+    ]
+  },
+  {
+    "id": 36,
+    "category": "Places",
+    "subcategory": "Cities",
+    "title": "A Walking Tour of the City's Actual Traffic Bottlenecks, Explained",
+    "excerpt": "not the famous ones. the three intersections locals reroute around that show up on no map",
+    "author": "R. Kowalski",
+    "date": "2026-05-19",
+    "likes": 34,
+    "comments": 5,
+    "color": "dark",
+    "image": "https://picsum.photos/seed/wire36/1200/900",
+    "body": [
+      "The traffic bottlenecks locals actually route around rarely match the ones tourists complain about online. We spent two weeks tracking the three intersections that show up in every local driver's mental map but on essentially no published traffic guide or map overlay.",
+      "The worst of the three is a T-junction near a school zone that becomes nearly impassable for about 25 minutes twice daily, at school drop-off and pickup, a bottleneck invisible to anyone not driving through during those specific windows. The second is a canal-side road that narrows to one effective lane whenever a delivery truck parks to unload, which happens with no fixed schedule but high frequency.",
+      "The third, and the one every local driver we interviewed named unprompted, is a roundabout with faded lane markings that functionally reverts to a free-for-all merge during evening rush hour, roughly 5 to 6:30pm. Google Maps routes traffic through it anyway, apparently unaware that the painted lanes stopped meaning anything years ago.",
+      "None of these three intersections appear in any of the tourist-facing traffic guides we checked, which tend to focus on the well-known chokepoints near major attractions instead. Locals reroute around all three as a matter of habit, often without consciously registering why.",
+      "If your commute runs through any of these points during peak windows, budget an extra 15 to 20 minutes rather than trusting the estimated time on your navigation app."
+    ]
+  },
+  {
+    "id": 37,
+    "category": "Places",
+    "subcategory": "Provinces",
+    "title": "The Rice Paddy View Everyone Photographs Is About to Be a Parking Lot",
+    "excerpt": "the land sale went through in march. the influencer photos are still going up daily",
+    "author": "N. Okafor",
+    "date": "2026-05-15",
+    "likes": 102,
+    "comments": 24,
+    "color": "dark",
+    "image": "https://picsum.photos/seed/wire37/1200/900",
+    "body": [
+      "The rice paddy view that appears in an estimated several hundred influencer photos a month, based on a rough geotag count we ran in August, sold in March to a developer planning a 60-space parking structure to serve a nearby attraction. The sale closed quietly; there was no public announcement beyond a small notice at the local land office.",
+      "Construction has not started as of this writing, but site clearing began in late July, visible from the same vantage point everyone photographs the rice fields from. The influencer photos, remarkably, have continued at roughly the same volume, with most visitors apparently unaware or unbothered by the excavator now parked at the field's edge in several recent posts.",
+      "The farmer who worked the land for over 30 years, who asked not to be named, told us the sale price was enough to retire comfortably, and that he does not begrudge the outcome even though he understands what the view meant to visitors. 'The rice does not pay what the parking lot pays,' he said, which is not wrong and is also the entire story in one sentence.",
+      "A representative for the developer confirmed the parking structure timeline targets completion within 14 months, pending permits that have not yet been finalized.",
+      "The view most people are still photographing today will likely not exist in its current form by this time next year. Nobody posting about it seems to know that yet."
+    ]
+  },
+  {
+    "id": 38,
+    "category": "Jobs",
+    "title": "The Remote Job Boards Nobody Local Actually Uses",
+    "excerpt": "the postings that pay are shared in three whatsapp groups you're probably not in. here's how to get an invite",
+    "author": "T. Faraday",
+    "date": "2026-05-11",
+    "likes": 66,
+    "comments": 8,
+    "color": "pink",
+    "image": "https://picsum.photos/seed/wire38/1200/900",
+    "body": [
+      "The remote job postings that actually pay a livable local wage rarely make it to public job boards. They circulate first, sometimes exclusively, through three WhatsApp groups run by longtime residents who vet both the employer and the pay rate before sharing anything.",
+      "We identified the groups through interviews with 15 remote workers who found their current roles this way rather than through LinkedIn or Indeed. All three groups cap membership, require a referral from an existing member, and remove anyone who posts unrelated content or unvetted opportunities. None of them are publicly searchable or listed anywhere.",
+      "One group admin, who has run her group since 2021, said the vetting exists because the public job boards get flooded with scam postings and pyramid-scheme recruiting disguised as remote work, to the point where a curated, invite-only space became necessary just to keep the signal usable. 'I've rejected more posts than I've approved this year,' she said.",
+      "Getting an invite typically requires knowing an existing member personally, through a coworking space, a meetup, or a mutual friend, which is its own quiet barrier to entry for newer arrivals with no local network yet.",
+      "The workaround people use: show up consistently to in-person meetups and coworking events for a few months before asking anyone for a group invite. Nobody we spoke with got in by asking a stranger cold."
+    ]
+  },
+  {
+    "id": 39,
+    "category": "Jobs",
+    "title": "What a Local Work Permit Actually Costs, Line by Line",
+    "excerpt": "the agency quote and the government fee schedule rarely match. we broke down where the difference goes",
+    "author": "J. Prescott",
+    "date": "2026-05-07",
+    "likes": 89,
+    "comments": 16,
+    "color": "dark",
+    "image": "https://picsum.photos/seed/wire39/1200/900",
+    "body": [
+      "We broke down the actual cost of a local work permit line by line after finding a consistent gap between what agencies quote clients and what the government fee schedule states. The official government fee for the permit itself: 1.2 million rupiah. The average agency quote we collected from six firms: 6.8 million rupiah.",
+      "The difference is not automatically fraud. Agencies charge for document preparation, translation, notarization, and the actual legwork of visiting government offices on your behalf, all legitimate services with real costs attached. The problem is that none of the six agencies we contacted itemized these separately in their initial quote; all six presented a single bundled number with no breakdown until we specifically asked.",
+      "When we did ask, itemized responses varied wildly: one agency's translation fee was 250,000 rupiah, another's was 900,000 for what appeared to be an identical service. Document handling fees ranged from 500,000 to 2.1 million rupiah across the six firms, with no correlation between price and stated turnaround time.",
+      "A former agency employee who left the industry in 2024 told us the bundled pricing model exists specifically because itemization invites comparison shopping. 'Once a client sees the government fee is 1.2 million, they ask why you're charging six times that,' she said.",
+      "Ask any agency for a line-item breakdown before signing anything. Every one we contacted provided it when pressed, which suggests the information was never actually hidden, just never offered."
+    ]
+  },
+  {
+    "id": 40,
+    "category": "Jobs",
+    "title": "Freelancing Here Legally Means Picking One of Two Bad Options",
+    "excerpt": "neither path is designed for what most remote workers actually do. here's how people make each one work anyway",
+    "author": "B. Ellison",
+    "date": "2026-05-03",
+    "likes": 78,
+    "comments": 15,
+    "color": "pink",
+    "image": "https://picsum.photos/seed/wire40/1200/900",
+    "body": [
+      "Freelancing here without falling into a legal gray zone means choosing between two visa paths, and neither one was designed with the actual work most remote freelancers do in mind. The two options: register as an independent contractor under a business visa category intended mainly for consultants and investors, or find a local sponsor willing to issue a KITAS despite you not actually being their employee.",
+      "The business visa path requires proof of a registered business entity and minimum capital commitments that most solo freelancers do not have, since it was built for people setting up companies, not for a designer or developer billing overseas clients by the hour. The sponsored KITAS path requires an Indonesian company willing to formally sponsor someone who is not really working for them, an arrangement that exists in a legal gray area most sponsors are cautious about.",
+      "In practice, we found people making both paths work through workarounds neither one was built for: some register a minimal local entity purely to satisfy the business visa's paperwork requirements without operating any real local business, while others pay a sponsoring company an informal monthly fee to hold their KITAS, effectively renting a legal status.",
+      "A visa consultant we spoke with, K. Rahardjo, estimated roughly 60 percent of the freelance clients she processes use some version of the sponsorship workaround, calling it 'the path of least resistance, not the path anyone actually designed for this.'",
+      "Neither route is illegal on its face, but both depend on maintaining paperwork that does not fully match what you actually do day to day, which is its own quiet risk every renewal cycle."
+    ]
+  },
+  {
+    "id": 41,
+    "category": "Jobs",
+    "title": "The Coworking Space That Doubles as a Hiring Pipeline",
+    "excerpt": "one desk manager has placed eleven people in local roles this year. nobody advertises this and she likes it that way",
+    "author": "R. Kowalski",
+    "date": "2026-04-29",
+    "likes": 41,
+    "comments": 6,
+    "color": "dark",
+    "image": "https://picsum.photos/seed/wire41/1200/900",
+    "body": [
+      "One coworking space in the city has quietly become a hiring pipeline for local companies, with its desk manager personally placing eleven people into local roles so far this year, a number she confirmed to us but does not advertise anywhere on the space's own marketing.",
+      "The manager, who has run the front desk for this location since 2022, says the placements happen informally: a member mentions they are job hunting, she remembers a local business owner who mentioned a hiring need three weeks earlier during a coffee conversation, and she connects the two. No formal recruiting fee, no listed service, just accumulated social capital from being the person who talks to everyone who passes through.",
+      "She told us she deliberately avoids formalizing it into an actual recruiting service. 'The moment it's a service, people start treating me like a recruiter instead of just talking to me honestly about what they need,' she said. All eleven placements this year came from conversations that started as something else entirely.",
+      "Members we spoke with who got placed this way described it as considerably less stressful than applying through job boards, largely because the initial introduction came with an implicit vouching from someone both parties already trusted.",
+      "There is no way to formally request this kind of introduction; it depends entirely on being a regular enough presence at the space that the manager knows your situation. That is either an argument for showing up more, or an uncomfortable reminder of how much hiring still runs on who happens to be in the room."
+    ]
+  },
+  {
+    "id": 42,
+    "category": "Jobs",
+    "title": "Teaching English Pays Less Than It Did Five Years Ago. Here's the Math.",
+    "excerpt": "wages haven't kept pace with the cost of living for teachers on local contracts. we pulled the numbers from four schools",
+    "author": "K. Bellweather",
+    "date": "2026-04-25",
+    "likes": 53,
+    "comments": 12,
+    "color": "dark",
+    "image": "https://picsum.photos/seed/wire42/1200/900",
+    "body": [
+      "English teaching wages at four schools we surveyed have not kept pace with the cost of living for foreign teachers on local contracts, and the gap has widened noticeably over the past five years. Average monthly pay across the four schools in 2020: 9.5 million rupiah. Average today: 10.8 million rupiah, a 14 percent nominal increase against a cost of living that rose considerably faster over the same period, driven largely by housing and imported goods.",
+      "None of the four schools disputed the raw wage figures when we presented them; two declined to comment on the comparison to cost of living specifically. One school administrator, speaking on background, said enrollment-based revenue has not grown enough to justify larger raises, and that competition among schools for students has kept tuition, and therefore the wage pool, relatively flat.",
+      "Teachers we interviewed described increasingly common workarounds: taking on private tutoring on the side, which several schools' contracts technically restrict, or splitting rent with roommates in a way that would have been unusual for a teacher on this same salary five years ago.",
+      "One teacher with six years at the same school did the math with us directly: her real, inflation-adjusted pay has effectively dropped by an estimated 18 percent since she started, even accounting for two raises in that period. 'I make more numbers on paper and less actual money,' she said.",
+      "None of the four schools indicated any planned structural change to compensation for the coming academic year."
+    ]
+  },
+  {
+    "id": 43,
+    "category": "Jobs",
+    "title": "The Local Business License Every Foreign-Run Cafe Skips, Until They Get Caught",
+    "excerpt": "the inspection sweeps are rare but not random. three owners told us exactly what triggers one",
+    "author": "H. Ward",
+    "date": "2026-04-21",
+    "likes": 62,
+    "comments": 14,
+    "color": "pink",
+    "image": "https://picsum.photos/seed/wire43/1200/900",
+    "body": [
+      "A local business operating license that most foreign-run cafes skip when they open, either from ignorance or a calculated bet that enforcement is rare, comes up in inspection sweeps more often than most owners assume. Three cafe owners walked us through exactly what triggers one.",
+      "The license in question, distinct from the standard business registration most cafes do complete, covers food service specifically and requires a separate health and safety inspection most owners are not told about during the general business setup process. All three owners we spoke with had operated for over a year without it before either getting caught or hearing enough warnings to apply proactively.",
+      "The trigger, according to all three independently, is rarely random. Two of the three said their inspection followed a formal complaint, in one case from a competing business, in another from a customer dispute that escalated. The third said his came after a social media post about his cafe gained enough local visibility that a district office employee apparently noticed and flagged it.",
+      "None of the three faced closure; all three were given a grace period of 30 days to obtain the missing license, with a fine attached only if they failed to comply within that window. All three ultimately paid an administrative fee in the range of 1.5 to 2.5 million rupiah to formalize the license after the fact.",
+      "The practical lesson from all three cases is the same: the license is cheap and straightforward to obtain proactively, and considerably more stressful to obtain under an inspector's deadline."
+    ]
+  },
+  {
+    "id": 44,
+    "category": "Jobs",
+    "title": "Why Local Hires Keep Quitting the Same Coworking Startup",
+    "excerpt": "four former employees gave the same reason independently. the founder disagrees and told us why",
+    "author": "E. Sorensen",
+    "date": "2026-04-17",
+    "likes": 47,
+    "comments": 9,
+    "color": "dark",
+    "image": "https://picsum.photos/seed/wire44/1200/900",
+    "body": [
+      "Four former employees of the same coworking startup gave us the identical reason, independently and without prompting, for why they quit within their first year: a compensation structure that promised equity or bonus pay tied to member growth targets that were, in the words of one former employee, 'set by someone who had never sold a membership in his life.'",
+      "All four described a pattern where sales targets were revised upward mid-quarter without a corresponding adjustment to the bonus threshold, meaning the goalposts moved but the reward for hitting them stayed fixed or occasionally shrank. Two of the four kept screenshots of the original compensation terms compared to the revised ones, which they shared with us.",
+      "The founder, when we presented the pattern described by all four former employees, disagreed with the characterization. 'Targets get adjusted because the market changes. That's normal business, not a bait and switch,' he said, adding that he believed the four had left for reasons unrelated to compensation and were retroactively attributing it to pay.",
+      "We do not have enough information to fully adjudicate between the two accounts, but the consistency of the specific complaint across four people with no apparent coordination between them is notable on its own.",
+      "The startup has hired three replacement staff for the departed roles since. None of the three responded to a request for comment on their own compensation terms."
+    ]
+  },
+  {
+    "id": 45,
+    "category": "Jobs",
+    "title": "The Skill Nobody Lists on a Resume That Gets You Hired Here",
+    "excerpt": "it isn't a language. it's knowing which government office actually answers its phone",
+    "author": "J. Marlowe",
+    "date": "2026-04-13",
+    "likes": 35,
+    "comments": 4,
+    "color": "dark",
+    "image": "https://picsum.photos/seed/wire45/1200/900",
+    "body": [
+      "The skill that consistently gets people hired here does not appear on any resume template, and it is not a language, technical certification, or industry credential. According to five hiring managers we interviewed across different industries, it is knowing which specific government office, on which specific day, actually answers its phone or processes paperwork on schedule.",
+      "This sounds like a joke until you consider how much of doing business here, even in ostensibly unrelated roles, requires navigating permits, registrations, and approvals that move at wildly inconsistent speeds depending entirely on which office and which staff member handles your file. A hire who already knows this terrain saves a company weeks of trial and error.",
+      "One hiring manager at a mid-sized import business told us her most valuable recent hire had no formal logistics background at all, but had spent three years personally handling his own visa and business paperwork as a freelancer, and arrived already knowing which customs office processed shipments fastest on which days of the week. 'That knowledge probably saved us a month in his first quarter alone,' she said.",
+      "None of the five hiring managers we spoke with said this skill appears anywhere in a typical interview process; it tends to surface only once someone is already on the job and the company discovers, often by accident, who already knows the workarounds.",
+      "There is no way to credential this skill or put it convincingly on a resume. The only way to demonstrate it is to have already lived through enough bureaucracy to have absorbed it, which is its own kind of unfair hiring filter."
+    ]
+  },
+  {
+    "id": 46,
+    "category": "Jobs",
+    "title": "Job Alert: A Local Startup Is Hiring Its First Foreign Ops Lead",
+    "excerpt": "the listing went up quietly last week. here's what the role actually pays and what the visa sponsorship covers",
+    "author": "Editorial",
+    "date": "2026-04-09",
+    "likes": 29,
+    "comments": 3,
+    "color": "pink",
+    "image": "https://picsum.photos/seed/wire46/1200/900",
+    "body": [
+      "A local logistics startup posted a listing last week for its first foreign operations lead, a role that did not exist at the company until this hire and came with less fanfare than the scope of the position suggests. We obtained the listing and a summary of the compensation package.",
+      "The role pays a base salary of 22 million rupiah per month, above the local market average for operations roles at similarly sized companies, plus a visa sponsorship package covering a two-year KITAS and the associated sponsor letter fees, an unusually complete benefit for a first-time hire in this specific role category.",
+      "The company, which has not previously employed a foreign staff member in a leadership capacity, told us the position was created specifically to manage relationships with the company's growing base of international clients, a function currently handled ad hoc by the founder directly, who said he no longer has the bandwidth for it alongside running the rest of the business.",
+      "The sponsorship package, per the listing, covers the visa itself but not relocation costs or housing, a detail candidates should factor into any comparison against the base salary figure alone.",
+      "Applications are open with no stated closing date, though the founder said he hopes to fill the role before the end of the year given how much of his own time it is currently consuming."
+    ]
+  },
+  {
+    "id": 47,
+    "category": "Visas",
+    "subcategory": "Support Companies",
+    "title": "The Second-Home Visa, Two Years In: What Actually Went Wrong",
+    "excerpt": "the program launched with big promises. applicants who've lived on it since day one told us where it fell short",
+    "author": "B. Ellison",
+    "date": "2026-04-05",
+    "likes": 91,
+    "comments": 18,
+    "color": "dark",
+    "image": "https://picsum.photos/seed/wire47/1200/900",
+    "body": [
+      "The second-home visa program launched two years ago with a pitch built around a ten-year residency term and a relatively low barrier to entry compared to other long-stay categories. Applicants who have lived on it since the first cohort told us the gap between the pitch and daily reality shows up mostly in three places: banking, tax clarity, and renewal documentation that changed twice since launch.",
+      "Of the six early applicants we interviewed, four reported difficulty opening a standard local bank account despite holding a valid ten-year visa, with banks citing internal policies that had not been updated to recognize the new visa category as equivalent to older long-stay permits for account eligibility purposes.",
+      "Tax residency guidance specific to the program remains, according to three of the six, inconsistently explained by different immigration offices, a problem compounded by the fact that the visa is new enough that even government staff processing it are still learning its specific rules.",
+      "One applicant described a documentation requirement for his upcoming renewal that did not exist at the time of his original application, added via an internal update he only learned about through a visa agent rather than any direct notice from immigration. 'The rules changed under me and nobody told me directly. I found out because I asked,' he said.",
+      "None of the six regretted taking the visa overall, but all six said their expectations, shaped by the original program marketing, undersold how much the fine print would still be settling two years in."
+    ]
+  },
+  {
+    "id": 48,
+    "category": "Visas",
+    "subcategory": "Support Companies",
+    "title": "The Sponsor Letter Mistake That Costs Everyone Their First Extension",
+    "excerpt": "it's one line, it's easy to get wrong, and immigration will not tell you until it's too late to fix",
+    "author": "J. Prescott",
+    "date": "2026-04-01",
+    "likes": 104,
+    "comments": 23,
+    "color": "pink",
+    "image": "https://picsum.photos/seed/wire48/1200/900",
+    "body": [
+      "A single line in the sponsor letter template trips up more first-time KITAS extension applicants than any other part of the process, according to three visa agents we interviewed who between them have processed several hundred extensions over the past two years. The mistake: listing the sponsor's business address using the company's registered legal address rather than its current operating address, when the two differ.",
+      "This distinction sounds minor and is treated as minor by nearly everyone filling out the form for the first time, but immigration cross-references the address against a separate business registry during processing, not at intake. That means the error is invisible when you submit and only surfaces weeks later as a rejection, well past the point where a quick fix is quick anymore.",
+      "One agent described watching the same specific mistake sink at least a dozen extension applications a year, calling it 'the single most avoidable rejection I see, and also the one immigration gives zero warning about before you submit.' None of the three agents we spoke with knew of any official guidance document that flags this distinction explicitly.",
+      "The fix, once you know to look for it, is straightforward: pull your sponsor company's current registered address directly from the business registry rather than assuming the office address on their letterhead matches it.",
+      "Applicants who catch this before submission report no unusual delay in processing. Applicants who do not typically lose two to four weeks to a resubmission cycle, sometimes landing awkwardly close to their actual visa expiration date."
+    ]
+  },
+  {
+    "id": 49,
+    "category": "Visas",
+    "subcategory": "The Law",
+    "title": "Overstay Fines: What They Actually Charge vs. What Agencies Tell You",
+    "excerpt": "the per-day rate is public information. most agencies quote a number that's nowhere close",
+    "author": "R. Doyle",
+    "date": "2026-03-28",
+    "likes": 118,
+    "comments": 27,
+    "color": "dark",
+    "image": "https://picsum.photos/seed/wire49/1200/900",
+    "body": [
+      "The overstay fine for exceeding a visa's validity is a matter of public record: 1,000,000 rupiah per day as of the current regulation, capped at 60 days of overstay before it escalates to detention and deportation proceedings rather than a simple fine. Most visa agencies we surveyed quoted figures nowhere close to that rate when we asked them directly.",
+      "We called eight agencies posing as a client with a hypothetical ten-day overstay and asked what the total fine would be. Quotes ranged from 3,000,000 to 18,000,000 rupiah, with most landing well above the actual regulation's math of 10,000,000 rupiah for that specific scenario. Only one agency quoted a figure that matched the public rate exactly.",
+      "When we pushed one agency for a breakdown of their higher quote, the representative cited 'processing and administrative fees' on top of the base fine without itemizing what those fees covered, a pattern consistent with the inflated bundled quotes we found in a separate investigation into work permit costs.",
+      "An immigration lawyer we consulted confirmed the per-day rate is published and unambiguous, and said agencies inflating the total are likely padding in service fees without disclosing them as separate from the government fine itself, which is technically not illegal but is misleading when presented as a single number.",
+      "If you are facing an overstay, the base math is simple enough to calculate yourself: days overstayed multiplied by 1,000,000 rupiah, before any agency service fee gets added on top."
+    ]
+  },
+  {
+    "id": 50,
+    "category": "Visas",
+    "subcategory": "Support Companies",
+    "title": "Why Your Visa Agent Won't Answer the Phone in March",
+    "excerpt": "it's not you. it's the annual permit renewal crunch, and here's how to avoid being deprioritized",
+    "author": "K. Bellweather",
+    "date": "2026-03-24",
+    "likes": 42,
+    "comments": 7,
+    "color": "dark",
+    "image": "https://picsum.photos/seed/wire50/1200/900",
+    "body": [
+      "Visa agents across the city go quiet every March, a pattern regular clients eventually learn to plan around rather than take personally. The cause is the annual permit renewal crunch: a large share of long-stay visa holders have renewal dates clustering in the first quarter, overwhelming agency capacity for roughly six to eight weeks each year.",
+      "One agency owner told us her office processes nearly triple its normal monthly volume during March, with staff working extended hours just to keep pace, leaving little bandwidth for new inquiries or clients whose cases are not time-sensitive. 'If your renewal isn't due, you get deprioritized. It's not personal, it's triage,' she said.",
+      "Clients who called or messaged during this window and got no response for days sometimes assumed something had gone wrong with their case specifically, when in most instances the actual cause was simply volume. Two clients we spoke with described switching agencies after March silence, only to discover the new agency hit the identical seasonal bottleneck the following year.",
+      "The clustering itself traces back to a wave of visa category changes several years ago that pushed many renewal cycles onto a similar annual schedule, an unintended side effect nobody seems to have planned around when the changes were made.",
+      "If your renewal or inquiry is not urgent, avoid initiating anything with an agency in March. If it is urgent and falls during this window, expect slower responses and plan your other deadlines accordingly."
+    ]
+  },
+  {
+    "id": 51,
+    "category": "Visas",
+    "subcategory": "The Law",
+    "title": "Retirement Visa Requirements Just Changed Again. Here's the New Minimum.",
+    "excerpt": "the monthly income threshold moved for the third time in four years. we compared the old and new numbers",
+    "author": "T. Faraday",
+    "date": "2026-03-20",
+    "likes": 76,
+    "comments": 11,
+    "color": "pink",
+    "image": "https://picsum.photos/seed/wire51/1200/900",
+    "body": [
+      "The minimum monthly income requirement for the retirement visa changed again this March, the third adjustment in four years, moving the threshold from 18,000,000 rupiah to 24,000,000 rupiah in proven monthly income or pension. This is the largest single increase of the three changes we compared.",
+      "The previous adjustments moved the number from an original 12,000,000 rupiah baseline up to 18,000,000 in 2023, then to the current 24,000,000 figure this year, a cumulative doubling over four years that has outpaced inflation by a wide margin according to the economists we asked to sanity-check the comparison.",
+      "Applicants already holding the visa under the older thresholds are not required to prove the new higher income to maintain their existing status, according to guidance from two visa agencies we confirmed with, though this detail is not stated clearly on any official public page we could find, only via direct agency inquiry.",
+      "New applicants, however, must meet the current 24,000,000 rupiah threshold regardless of what previous cohorts required, a gap that means two people holding what looks like an identical visa category may have qualified under entirely different income bars depending on when they applied.",
+      "Nobody we spoke with, including two immigration-adjacent sources, could say with confidence whether a fourth adjustment is likely before the current threshold's next scheduled review."
+    ]
+  },
+  {
+    "id": 52,
+    "category": "Visas",
+    "subcategory": "Support Companies",
+    "title": "The Visa Run Isn't Dead, It Just Moved to a Different Border",
+    "excerpt": "the old route stopped working two years ago. here's where people actually go now and why it still isn't reliable",
+    "author": "R. Kowalski",
+    "date": "2026-03-16",
+    "likes": 68,
+    "comments": 13,
+    "color": "dark",
+    "image": "https://picsum.photos/seed/wire52/1200/900",
+    "body": [
+      "The visa run, the practice of exiting and re-entering the country to reset a visa-free or short-stay entry period, is not dead, contrary to periodic claims that it has been shut down entirely. It moved. The route most commonly used two years ago stopped reliably working after a policy tightening at that specific border crossing, and traffic has since shifted to a different crossing further east.",
+      "The old route's failure was not a formal ban so much as increased scrutiny: officers at that crossing began flagging and questioning visitors with a pattern of frequent short exits and re-entries, sometimes denying re-entry outright even when the paperwork was technically in order. Word spread through the usual channels and traffic thinned out within a few months.",
+      "The newer route, favored since, sees considerably less scrutiny according to four people who have used it in the past year, but 'less reliable' is doing real work in that description: two of the four reported being questioned at length on at least one crossing, and one was asked to provide proof of onward travel he had not been asked for previously.",
+      "Nobody we spoke with described either route as a stable long-term solution. All four said they treat each crossing as a roll of the dice rather than a guaranteed reset, and budget extra time at the border accordingly.",
+      "The pattern here is not new: this is the third border crossing to serve as 'the current visa run route' since 2019, according to two longtime residents. Each one works until enough people rely on it that scrutiny catches up."
+    ]
+  },
+  {
+    "id": 53,
+    "category": "Visas",
+    "subcategory": "The Law",
+    "title": "What Happens When Your Sponsor Company Closes Mid-Permit",
+    "excerpt": "it happened to six people we talked to this year. none of their outcomes matched what the agency promised",
+    "author": "N. Okafor",
+    "date": "2026-03-12",
+    "likes": 55,
+    "comments": 10,
+    "color": "dark",
+    "image": "https://picsum.photos/seed/wire53/1200/900",
+    "body": [
+      "Six people we interviewed this year had their sponsor company close or dissolve while their work permit was still active, a situation that immigration handles with less consistency than any agency promised any of them in advance. None of the six had an outcome matching what their original agency described as the standard process.",
+      "When a sponsoring company closes, the sponsored employee's permit does not automatically transfer or extend; it becomes tied to an entity that legally no longer exists, creating a compliance gap the employee has to resolve, typically by finding a new sponsor within a limited window. Three of the six found a new sponsor in time. Two did not and had to leave the country and reapply from outside. One is still in the process of resolving it as of this writing.",
+      "One of the two who had to leave described being told by her original agency, before the company closed, that 'this basically never happens and if it does, immigration is lenient about timing.' In her actual experience, the window she was given once the company officially dissolved was considerably shorter than that reassurance implied.",
+      "None of the six had any written contingency plan or guidance from their sponsor about what would happen to their visa status if the company ceased operating, an oversight none of them had thought to ask about at the time of hiring.",
+      "If you hold a work permit sponsored by a smaller company, especially one showing any signs of financial trouble, it is worth asking directly what the plan is for your visa status if the company closes, before it becomes an urgent problem rather than a hypothetical one."
+    ]
+  },
+  {
+    "id": 54,
+    "category": "Visas",
+    "subcategory": "The Law",
+    "title": "The Family Reunion Visa Nobody Explains Correctly Online",
+    "excerpt": "half the forum posts about this category cite a rule that was replaced eighteen months ago",
+    "author": "E. Sorensen",
+    "date": "2026-03-08",
+    "likes": 49,
+    "comments": 9,
+    "color": "pink",
+    "image": "https://picsum.photos/seed/wire54/1200/900",
+    "body": [
+      "Roughly half the forum posts and blog guides we reviewed about the family reunion visa category cite a documentation rule that was replaced eighteen months ago, meaning a large share of the advice circulating online is currently wrong, not outdated in some harmless way but wrong in ways that can delay an actual application.",
+      "The specific rule most commonly cited incorrectly concerns proof-of-relationship documentation: older guidance required a translated and notarized marriage or birth certificate from the applicant's home country. Current guidance, updated roughly eighteen months ago, additionally requires the document be authenticated through the issuing country's embassy or consulate before submission, an extra step most of the outdated posts do not mention at all.",
+      "We found this outdated version reproduced, sometimes verbatim, across at least nine separate forum threads and four blog posts, several of which rank highly in search results for anyone researching the category, meaning newcomers are more likely to encounter the wrong version than the current one.",
+      "One applicant who followed an outdated guide submitted her documentation without the embassy authentication step and had her application returned for correction, adding roughly five weeks to her timeline once resubmission and reprocessing were factored in.",
+      "The only reliable way to confirm current requirements is checking directly with immigration or a currently practicing agent, not a forum post, however detailed or well-intentioned, since none of the outdated posts we found had been corrected or flagged by their original authors."
+    ]
+  },
+  {
+    "id": 55,
+    "category": "Schools",
+    "subcategory": "High School",
+    "title": "The International School Fee Increase Parents Found Out About by Accident",
+    "excerpt": "a fifteen percent jump appeared on the invoice with no prior notice. the school's explanation didn't match its own contract",
+    "author": "H. Ward",
+    "date": "2026-03-04",
+    "likes": 84,
+    "comments": 19,
+    "color": "dark",
+    "image": "https://picsum.photos/seed/wire55/1200/900",
+    "body": [
+      "Parents at one international school discovered a 15 percent tuition increase when it appeared on their invoice for the coming term, with no prior notice sent through any of the school's usual communication channels, email, the parent portal, or the printed newsletter. Several parents told us they only found out when the invoice hit their inbox with the new figure already applied.",
+      "The school's own enrollment contract, which we reviewed a copy of, specifies that tuition changes require 90 days written notice before taking effect, a term that appears to directly contradict how this increase was communicated. When parents raised the discrepancy, the school's response, relayed to us by three separate families, cited a 'rounding and currency adjustment' rather than acknowledging it as the tuition increase the contract's notice clause would apply to.",
+      "One parent who has had two children enrolled since 2021 called the explanation unconvincing given the size of the jump. 'Fifteen percent is not a rounding error. It's the second-largest increase we've seen from this school in four years,' she said, referring to a smaller adjustment in 2023 that was properly noticed in advance.",
+      "The school did not respond to our request for comment on the discrepancy between the 90-day notice clause and the timing of this specific increase.",
+      "At least one family we spoke with is consulting a lawyer about whether the increase is enforceable given the contract's own notice terms, though none had reached a resolution as of this writing."
+    ]
+  },
+  {
+    "id": 56,
+    "category": "Schools",
+    "subcategory": "Elementary",
+    "title": "Local Public School Enrollment for Foreign Kids: The Real Requirements",
+    "excerpt": "it's cheaper and legal, and almost nobody in the expat groups mentions it as an option. here's the actual process",
+    "author": "K. Bellweather",
+    "date": "2026-02-28",
+    "likes": 61,
+    "comments": 14,
+    "color": "pink",
+    "image": "https://picsum.photos/seed/wire56/1200/900",
+    "body": [
+      "Enrolling a foreign child in local public school is both cheaper and legal, and it barely comes up in expat community discussions, where international school is treated as the default option almost by assumption. We looked into the actual requirements, which are more straightforward than the silence around the option would suggest.",
+      "The core requirements: a valid KITAS or equivalent residency permit for the child, translated and legalized copies of prior school records, and in most cases a basic Indonesian language assessment that determines which grade level or support track the child enters. None of these requirements are unusual by the standards of public enrollment processes elsewhere.",
+      "Tuition at public schools is a fraction of international school costs, often limited to minor registration and materials fees rather than the tens of millions of rupiah per year that international tuition commands. The tradeoff, which nobody we spoke with tried to minimize, is that instruction is conducted in Indonesian, requiring either existing language ability or a fast, sometimes difficult adjustment period for a newly arrived child.",
+      "One family who made the switch after two years in an international school described their child's first three months in public school as genuinely hard, followed by a leveling-off once basic conversational fluency developed. 'It was harder than we expected up front and easier than we expected by month four,' the parent said.",
+      "The option is not right for every family's timeline or the child's age and prior language exposure, but it is a legal, functioning path that the local information ecosystem mostly does not mention."
+    ]
+  },
+  {
+    "id": 57,
+    "category": "Schools",
+    "subcategory": "College",
+    "title": "Why Three Homeschool Curriculums Got Banned From One Coworking Space",
+    "excerpt": "it wasn't the content. it was the noise complaints from paying members trying to take calls",
+    "author": "J. Marlowe",
+    "date": "2026-02-24",
+    "likes": 37,
+    "comments": 6,
+    "color": "dark",
+    "image": "https://picsum.photos/seed/wire57/1200/900",
+    "body": [
+      "Three separate homeschool curriculum groups that had been meeting at one coworking space got banned from the premises this February, and the reason had nothing to do with the content or philosophy of any of the three programs. It was noise complaints from paying coworking members trying to take client calls nearby.",
+      "The coworking space's manager told us the complaints accumulated over several months before the ban, with members specifically citing group read-aloud sessions and a science curriculum's noisier hands-on experiments as the recurring disruptions. The space had allowed homeschool groups to book its common areas informally since 2024 without a clear noise policy governing the arrangement.",
+      "None of the three curriculum groups were given advance warning before the ban took effect; all three found out when their next scheduled booking was declined without much explanation beyond 'member complaints,' according to organizers from two of the three groups we reached.",
+      "One organizer said the abruptness stung more than the ban itself, since the groups had never been told noise was a problem before being told they could no longer book at all. 'A warning would have let us fix it. We went straight to banned,' she said.",
+      "The coworking space has since posted a formal policy restricting group educational bookings to a separate room with better sound isolation, a fix that came after the ban rather than before it, which is its own small commentary on how these things tend to get handled."
+    ]
+  },
+  {
+    "id": 58,
+    "category": "Schools",
+    "subcategory": "High School",
+    "title": "The School Bus Route That Takes Ninety Minutes for a Twenty-Minute Drive",
+    "excerpt": "traffic is only half the story. the rest is a route designed for a school that moved buildings five years ago",
+    "author": "B. Ellison",
+    "date": "2026-02-20",
+    "likes": 28,
+    "comments": 4,
+    "color": "dark",
+    "image": "https://picsum.photos/seed/wire58/1200/900",
+    "body": [
+      "One international school's bus route takes 90 minutes to cover a drive that, without traffic, runs about 20 minutes point to point. Traffic accounts for part of the gap, but according to route documentation we obtained from a parent on the school's transportation committee, the larger factor is a route designed around a campus location the school moved away from five years ago.",
+      "The school relocated to its current site in 2021, and the bus route was adjusted at the time to reach the new campus, but the underlying pickup sequence, which stops it hits and in what order, was never fully redesigned around the new location. It still loops through neighborhoods that made sense as a path to the old campus and now function as a detour to the new one.",
+      "A transportation committee parent who reviewed the route map with us pointed out at least two stops that could be reordered to cut roughly 25 minutes off the total run, based on straightforward geography rather than anything requiring new infrastructure or additional buses.",
+      "The school's operations office, when asked why the route had not been redesigned since the 2021 move, said route changes require re-approval from the local transportation authority, a process the office described as slow enough that it has simply not been prioritized against other administrative demands.",
+      "No redesign is currently scheduled, meaning students on this particular route will likely keep losing the same 25 minutes daily for the foreseeable future."
+    ]
+  },
+  {
+    "id": 59,
+    "category": "Schools",
+    "subcategory": "High School",
+    "title": "Accreditation, Explained for Parents Who Just Want a Straight Answer",
+    "excerpt": "three different accrediting bodies operate here and they mean three different things. most brochures don't say which one applies",
+    "author": "T. Faraday",
+    "date": "2026-02-16",
+    "likes": 52,
+    "comments": 8,
+    "color": "pink",
+    "image": "https://picsum.photos/seed/wire59/1200/900",
+    "body": [
+      "Three different accrediting bodies operate schools in the region, and they represent three meaningfully different standards, a distinction that most school marketing materials do not clarify, often using the word 'accredited' as if it were a single, uniform status.",
+      "The three bodies differ in what they actually evaluate: one focuses primarily on curriculum standards and credit transferability for university applications abroad, a second emphasizes facility and safety standards with lighter academic oversight, and a third is a regional accreditation body whose recognition does not automatically transfer to university systems outside the immediate region.",
+      "We reviewed promotional brochures from six schools; only two explicitly named which of the three bodies accredited them. The other four used the word 'accredited' or 'internationally accredited' without specifying which body, leaving parents to either dig through the fine print or the school's website footer, or simply not know.",
+      "A consultant who advises families on international school choice told us this ambiguity is not always deliberate obfuscation, but it functions the same way in practice: parents assume equivalence between schools that hold genuinely different levels of accreditation, and by the time the difference matters, for a university application, it is often too late to change schools.",
+      "If a school's marketing says 'accredited' without naming the specific body, ask directly which one and what it actually certifies before assuming it means what a similarly worded claim meant at a different school."
+    ]
+  },
+  {
+    "id": 60,
+    "category": "Schools",
+    "subcategory": "High School",
+    "title": "The Waitlist Deposit That Isn't Refundable, Even If You Never Enroll",
+    "excerpt": "it's buried in section nine of a contract nobody reads before signing. we read it so you don't have to",
+    "author": "R. Doyle",
+    "date": "2026-02-12",
+    "likes": 71,
+    "comments": 15,
+    "color": "dark",
+    "image": "https://picsum.photos/seed/wire60/1200/900",
+    "body": [
+      "A waitlist deposit charged by one well-known international school is non-refundable even if the child is never offered a spot or the family withdraws the application entirely, a term buried in section nine of an eleven-section enrollment contract that almost nobody reads in full before signing and paying the deposit.",
+      "The deposit itself runs 5,000,000 rupiah, framed in the school's promotional materials as a way to 'secure your place in the admissions queue.' Section nine, in the actual contract, clarifies that the fee is non-refundable under all circumstances, including if the school never offers admission at all, a detail the promotional framing does not mention.",
+      "We read the full eleven-section contract so prospective parents do not have to guess what else might be similarly buried. Section nine is the only clause addressing refund conditions for the waitlist deposit specifically, and it appears roughly three pages after most of the document's more prominent, plainly stated terms about tuition and enrollment dates.",
+      "One family we spoke with paid the deposit, waited fourteen months, and ultimately enrolled their child elsewhere after a spot never opened up. They did not attempt to request a refund after reading the contract themselves and concluding, correctly per the terms, that they had no grounds to.",
+      "The deposit and its non-refundable terms are legal and disclosed, if not prominently. Reading section nine before paying, rather than after, is the only real defense against being surprised by it."
+    ]
+  },
+  {
+    "id": 61,
+    "category": "Schools",
+    "subcategory": "Elementary",
+    "title": "How One Family Cut School Costs in Half Without Changing Schools",
+    "excerpt": "it wasn't a discount. it was reading the fee schedule closely enough to stop paying for things they didn't need",
+    "author": "N. Okafor",
+    "date": "2026-02-08",
+    "likes": 44,
+    "comments": 7,
+    "color": "dark",
+    "image": "https://picsum.photos/seed/wire61/1200/900",
+    "body": [
+      "One family cut their annual school costs by roughly 40 percent without switching schools or negotiating any discount, simply by reading the full fee schedule closely enough to identify charges they were paying for services their child was not using.",
+      "The biggest single item: a bundled activities fee that included after-school sports, music lessons, and a weekend enrichment program, charged as one line item regardless of whether a student participated in any of the three. Their child was enrolled in none of them. Reading the fee schedule's fine print revealed an opt-out clause available on written request, something the school had never proactively offered.",
+      "A second, smaller saving came from a technology fee covering a school-issued tablet the family had already opted out of two years earlier by providing their own device, a decision that had apparently not been reflected in subsequent years' billing until the parent flagged the discrepancy directly with the finance office.",
+      "The parent described the process as tedious rather than difficult: it took an afternoon of reading the full fee schedule line by line and cross-referencing it against what services her child actually used, followed by one written request to the finance office to apply the opt-outs retroactively for the current term.",
+      "Her advice to other parents: assume nothing on a bundled fee schedule is mandatory until you have confirmed it in writing, since schools rarely volunteer the opt-out options that do exist."
+    ]
+  },
+  {
+    "id": 62,
+    "category": "Schools",
+    "subcategory": "High School",
+    "title": "The Language Immersion Program Locals Send Their Kids To, Not Foreigners",
+    "excerpt": "it costs a third of the international school tuition and gets better results by most measures parents actually care about",
+    "author": "E. Sorensen",
+    "date": "2026-02-04",
+    "likes": 58,
+    "comments": 11,
+    "color": "pink",
+    "image": "https://picsum.photos/seed/wire62/1200/900",
+    "body": [
+      "A language immersion program that costs roughly a third of standard international school tuition is where most local families send their children, not the international schools that dominate expat community discussion, and by several measures parents actually care about, it produces comparable or better results.",
+      "The program, run across four campuses in the region, teaches a full academic curriculum with instruction split between Indonesian and English from an early grade, a structural difference from international schools that generally teach primarily in English with Indonesian as a secondary subject rather than a core instructional language.",
+      "University placement data the program shared with us shows graduates gaining admission to a range of universities abroad at a rate comparable to nearby international schools, despite tuition that runs a third of the cost, a gap that raises the obvious question of what, specifically, the higher international school tuition is buying.",
+      "A parent with children in both systems, one in each, over different years, said the biggest practical difference she noticed was social: her child in the immersion program built a wider local friend network, while her child in the international school socialized mostly within the expat community by default, simply because of who else was enrolled.",
+      "Enrollment for foreign families remains relatively low at the immersion program, according to its own admissions office, less because of any barrier and more because most newly arrived families never hear about it as an option before defaulting to the international school circuit."
+    ]
+  },
+  {
+    "id": 63,
+    "category": "Activities",
+    "title": "The Free Hiking Trail That Isn't Free Anymore",
+    "excerpt": "a local group started collecting an entrance fee in january with no permit to do so. here's what actually happened",
+    "author": "R. Kowalski",
+    "date": "2026-01-31",
+    "likes": 63,
+    "comments": 12,
+    "color": "dark",
+    "image": "https://picsum.photos/seed/wire63/1200/900",
+    "body": [
+      "A hiking trail that has been free and publicly accessible for as long as anyone locally can remember started charging a 25,000 rupiah entrance fee this January, collected by a local community group that turns out to hold no actual permit authorizing them to charge anything.",
+      "The group, a handful of residents from the nearest village, set up a manned gate at the trailhead and began collecting cash from hikers starting January 8, framing it verbally as a 'conservation contribution' without any signage explaining the fee's legal basis or where the money goes. We asked the district tourism office directly whether this group holds a permit; the answer was no.",
+      "Hikers who paid described no resistance to a small fee in principle, several said they would happily pay a legitimate conservation charge, but frustration at the lack of any transparency about where roughly 25,000 rupiah times an estimated 60 to 80 daily hikers actually ends up. Nobody we spoke with had seen a receipt.",
+      "The district tourism office told us it is aware of the situation and reviewing it, though as of this writing the gate is still operating and still collecting payment, unresolved status notwithstanding.",
+      "Until this gets formally sorted, hikers should know the fee, while collected in person and treated as mandatory at the gate, currently has no confirmed legal standing."
+    ]
+  },
+  {
+    "id": 64,
+    "category": "Activities",
+    "title": "The Diving Certification Shortcut That Isn't Actually Certified",
+    "excerpt": "three dive shops in town are selling a course that doesn't meet the standard they claim on the wall poster",
+    "author": "H. Ward",
+    "date": "2026-01-27",
+    "likes": 79,
+    "comments": 16,
+    "color": "pink",
+    "image": "https://picsum.photos/seed/wire64/1200/900",
+    "body": [
+      "Three dive shops in the main tourist area are selling an entry-level certification course advertised with a well-known international agency's logo on the wall poster, despite the course not actually meeting that agency's standards for the certification it claims to award, according to documentation we obtained from the agency's regional office.",
+      "The shortcut version compresses a standard four-day open water course into two days, cutting pool session hours and open water dive counts below the agency's published minimum requirements. Certificates issued through this shortened version are not recognized by the agency whose logo appears on the shop's signage, meaning divers who complete it may find their certification does not transfer or get honored elsewhere.",
+      "We confirmed with the agency's regional compliance office that none of the three shops we identified are currently in good standing to issue their standard certification, and that the agency has an open complaint process for exactly this kind of misrepresentation, though enforcement depends on divers actually reporting it.",
+      "One diver who completed the shortened course at one of the three shops discovered the issue only when a dive operator elsewhere in the region declined to honor his certificate, requiring him to retake a proper course entirely.",
+      "Before booking a certification course anywhere, verify the shop's status directly on the certifying agency's own website rather than trusting the poster on the wall, which in at least three confirmed cases this year did not reflect reality."
+    ]
+  },
+  {
+    "id": 65,
+    "category": "Activities",
+    "title": "The Gym Membership That Auto-Renews in a Currency You Didn't Agree To",
+    "excerpt": "a contract clause buried in the fine print switched three members to a worse exchange rate without telling them",
+    "author": "J. Prescott",
+    "date": "2026-01-23",
+    "likes": 41,
+    "comments": 8,
+    "color": "dark",
+    "image": "https://picsum.photos/seed/wire65/1200/900",
+    "body": [
+      "A gym chain's membership contract contains a clause that auto-renews annual memberships in a currency other than the one the original agreement was signed in, a switch that affected at least three members we identified before they noticed it on a subsequent billing statement.",
+      "The clause, present in the standard membership contract since a 2024 revision, states that renewal payments process in the gym's 'designated settlement currency,' a phrase vague enough that none of the three affected members understood it meant their renewal would be billed in a different currency than their original sign-up, at an exchange rate set by the gym's payment processor rather than a market rate.",
+      "One member noticed the switch only because her card issuer flagged an unusual foreign currency transaction, prompting her to actually read the fine print for the first time since signing two years earlier. The exchange rate applied worked out roughly 6 percent worse than the market rate on the day of the charge.",
+      "The gym, when we asked about the clause, confirmed it is standard across all memberships and said the currency designation is disclosed in the original contract, which is technically true but is written in language none of the three affected members recalled understanding as consequential at signing.",
+      "If you hold a membership with an auto-renewal clause, checking the settlement currency language before your next renewal date is worth the ten minutes it takes, since none of the three affected members found out until after being charged."
+    ]
+  },
+  {
+    "id": 66,
+    "category": "Activities",
+    "title": "Why Every Yoga Studio in Town Suddenly Requires a Deposit",
+    "excerpt": "a wave of no-shows in december led to a policy change that's now standard across six studios",
+    "author": "K. Bellweather",
+    "date": "2026-01-19",
+    "likes": 33,
+    "comments": 5,
+    "color": "dark",
+    "image": "https://picsum.photos/seed/wire66/1200/900",
+    "body": [
+      "Six yoga studios across the city introduced a mandatory booking deposit this January, a coordinated-looking shift that turns out to have a straightforward, uncoordinated cause: a wave of no-shows in December that hit nearly every studio's bottom line at roughly the same time.",
+      "Studio owners we spoke with described December no-show rates spiking to between 20 and 30 percent of booked classes, up from a typical 5 to 8 percent, driven partly by holiday travel and partly, several owners suspected, by an uptick in casual drop-in bookings made without much commitment behind them.",
+      "The deposit amounts vary slightly by studio, generally 50,000 to 100,000 rupiah, refunded or credited toward the class if the student shows up, forfeited if they do not cancel within a specified window, usually 12 to 24 hours before class. None of the six studios coordinated the policy directly with each other; each arrived at a similar solution independently after a similar problem.",
+      "One studio owner said no-show rates dropped to roughly 6 percent within the first month of the new deposit policy, a fast enough turnaround that the other five studios, hearing about it through the same small local wellness business network, adopted similar terms within weeks of each other.",
+      "The deposit requirement appears to be permanent rather than a temporary post-holiday measure, according to all six studios, none of which indicated any plan to revert once no-show rates normalized."
+    ]
+  },
+  {
+    "id": 67,
+    "category": "Activities",
+    "title": "The Surf Break Getting Crowded Enough to Change Local Rules",
+    "excerpt": "a lineup that used to hold ten now holds forty on a good swell. the local surf association is drafting actual guidelines",
+    "author": "R. Kowalski",
+    "date": "2026-01-15",
+    "likes": 87,
+    "comments": 20,
+    "color": "pink",
+    "image": "https://picsum.photos/seed/wire67/1200/900",
+    "body": [
+      "A surf break that comfortably held a lineup of maybe ten surfers on a good day five years ago now regularly sees 40 or more in the water during a solid swell, a crowding shift significant enough that the local surf association has begun drafting formal lineup etiquette guidelines, a first for this particular break.",
+      "The growth traces to a combination of the break's rising profile on surf forecasting apps and social media, plus the broader increase in remote workers settling nearby who surf regularly rather than as occasional tourists. Local surfers who have ridden the break for over a decade describe the shift as gradual until about two years ago, then rapid.",
+      "The draft guidelines, which we reviewed a copy of, address priority rules for locals versus visitors, a proposed cap on how many people can paddle for a single wave, and designated areas for beginners taking lessons, an increasingly common sight at the break as several surf schools have added it to their rotation.",
+      "Not everyone in the local surf community supports formalizing what was previously an informal, reputation-based pecking order. One longtime local surfer we spoke with worried that written rules invite disputes that unwritten local knowledge used to handle more smoothly. 'Once it's written down, people argue about the wording instead of just reading the room,' he said.",
+      "The surf association expects to finalize the guidelines by the end of this year, with enforcement, as with most surf lineup etiquette anywhere, depending more on social pressure than any actual authority to penalize violations."
+    ]
+  },
+  {
+    "id": 68,
+    "category": "Activities",
+    "title": "The Weekend Market That Moved Locations and Nobody Updated Google Maps",
+    "excerpt": "it's been at the new site for four months. half the tourists still show up at the old parking lot",
+    "author": "B. Ellison",
+    "date": "2026-01-11",
+    "likes": 25,
+    "comments": 3,
+    "color": "dark",
+    "image": "https://picsum.photos/seed/wire68/1200/900",
+    "body": [
+      "A weekend market relocated to a new site four months ago after its previous location's lease ended, and Google Maps still points visitors to the old, now-empty parking lot, a gap that has left roughly half the tourists we observed over two Saturdays showing up at the wrong place entirely.",
+      "The move, from a lot behind a shuttered supermarket to a larger space about 1.2 kilometers away, was announced by market organizers through their own social media and a banner at the old site, but neither of those channels reaches someone simply following a map pin from a search result made months earlier or a saved bookmark from a prior visit.",
+      "We watched the old lot for two hours on a Saturday morning and counted 14 separate groups arriving, checking their phones in visible confusion, and either leaving entirely or asking a nearby shopkeeper for directions to the actual new site. The shopkeeper, whose shop backs onto the old lot, said this has been a near-daily occurrence since the move.",
+      "Market organizers told us they reported the location change to the map platform through its standard business-update process shortly after relocating, but as of our visit four months later, the listing still had not updated, and they had not followed up a second time.",
+      "If you are heading to this market, verify the current address through the organizers' social media directly rather than trusting a map pin, at least until the listing catches up with reality."
+    ]
+  },
+  {
+    "id": 69,
+    "category": "Activities",
+    "title": "Rice Terrace Tours: The One Guide License That Actually Matters",
+    "excerpt": "anyone can call themselves a guide. only one certification means they're trained on the terrace's actual irrigation system",
+    "author": "N. Okafor",
+    "date": "2026-01-07",
+    "likes": 48,
+    "comments": 9,
+    "color": "dark",
+    "image": "https://picsum.photos/seed/wire69/1200/900",
+    "body": [
+      "Rice terrace tours are led by a wide range of self-described guides with varying levels of actual training, but only one certification, issued through a regional agricultural tourism board, specifically trains guides on the terrace's centuries-old subak irrigation system, the detail that separates a genuinely informed tour from someone reciting a memorized script.",
+      "Anyone can legally call themselves a guide at most of the popular terrace sites; there is no licensing requirement to stand at the entrance and offer a walking tour for a negotiated price. The subak-specific certification is voluntary, and only a minority of active guides at the most visited terraces have actually completed it.",
+      "We took two tours back to back, one with a certified guide and one without, to compare directly. The certified guide could explain the specific water allocation schedule governing that terrace section and the community council structure that manages disputes between farmers sharing the system. The uncertified guide's tour covered mostly photo spots and general commentary about rice farming without engaging with the irrigation system specifically.",
+      "Certified guides typically charge a modest premium, in our comparison roughly 20 percent more than an uncertified guide, for a tour most visitors we spoke with afterward said felt substantially more substantive.",
+      "The certification is not widely advertised at the terrace entrances themselves; asking a guide directly whether they hold it, rather than assuming a confident sales pitch equals actual training, is currently the only reliable way to tell the difference before you have already paid."
+    ]
+  },
+  {
+    "id": 70,
+    "category": "Accommodations",
+    "title": "The Villa Contract Clause That Lets Owners Cancel a Month-Long Booking",
+    "excerpt": "it's legal, it's common, and almost no guest reads far enough to find it before they wire the deposit",
+    "author": "T. Faraday",
+    "date": "2026-01-03",
+    "likes": 96,
+    "comments": 21,
+    "color": "pink",
+    "image": "https://picsum.photos/seed/wire70/1200/900",
+    "body": [
+      "A clause present in the standard villa rental contract used by several property managers in the area allows the owner to cancel a confirmed booking, including a full month-long stay, with as little as seven days notice, provided a specified refund is issued. Almost no guest reads far enough into the contract to find this clause before wiring a deposit.",
+      "The clause typically appears under a section titled something like 'owner's right of use' or 'force majeure and exceptions,' language that sounds like it covers emergencies but in the contracts we reviewed was broadly worded enough to permit cancellation for essentially any reason, including simply receiving a higher offer from another renter.",
+      "We reviewed contracts from four villa management companies; three contained some version of this clause, differing mainly in the notice period, which ranged from three to fourteen days, and the refund terms, which in one contract only covered the unused portion of the stay rather than any compensation for the disruption itself.",
+      "One renter who had booked a month-long stay months in advance received a cancellation notice nine days before arrival, citing 'unforeseen owner circumstances,' and was refunded in full but given no help finding comparable replacement housing on short notice during peak season pricing.",
+      "The clause is legal and disclosed, technically, in the contract's fine print. Reading the full document before wiring any deposit, specifically searching for cancellation and force majeure language, is the only real protection against this particular surprise."
+    ]
+  },
+  {
+    "id": 71,
+    "category": "Accommodations",
+    "title": "Long-Term Rental Deposits: What You're Actually Owed Back",
+    "excerpt": "landlords deduct for things the law doesn't allow more often than not. here's what to push back on",
+    "author": "J. Prescott",
+    "date": "2025-12-30",
+    "likes": 82,
+    "comments": 17,
+    "color": "dark",
+    "image": "https://picsum.photos/seed/wire71/1200/900",
+    "body": [
+      "Long-term rental deposits get partially withheld more often than they get returned in full, based on interviews with 20 renters who completed a lease term this year, and a recurring pattern across those interviews is landlords deducting for categories the underlying tenancy law does not actually permit.",
+      "Common improper deductions cited across the 20 interviews included charges for normal wear and tear, faded paint, minor scuffs on floors, which most tenancy frameworks explicitly exclude from deposit deductions, and full repainting costs charged even when the unit was left in reasonable condition. Only 3 of the 20 renters received their full deposit back without dispute.",
+      "A tenant rights advocate we consulted said the core issue is that most rental agreements here are informal enough, often a simple written agreement rather than a fully lawyer-reviewed contract, that tenants rarely know which deductions are actually enforceable versus which ones a landlord is simply hoping they will not question.",
+      "Of the 17 renters who experienced a deduction they considered improper, only 6 pushed back, and of those 6, 4 recovered at least part of the disputed amount simply by asking the landlord directly to justify each line item in writing.",
+      "The practical lesson from the 20 interviews: document the unit's condition thoroughly with photos at move-in and move-out, and request an itemized deduction list in writing before accepting whatever amount comes back. Landlords who cannot itemize a deduction often drop it when actually asked to."
+    ]
+  },
+  {
+    "id": 72,
+    "category": "Accommodations",
+    "title": "The Coliving Space Charging a 'Community Fee' Nobody Can Define",
+    "excerpt": "we asked four residents and got four different answers about what it actually pays for",
+    "author": "E. Sorensen",
+    "date": "2025-12-26",
+    "likes": 44,
+    "comments": 7,
+    "color": "dark",
+    "image": "https://picsum.photos/seed/wire72/1200/900",
+    "body": [
+      "A coliving space charges every resident a monthly 'community fee' of 750,000 rupiah on top of base rent, and when we asked four current residents independently what the fee actually covers, we got four different answers, none of which matched the vague description on the space's own website.",
+      "One resident said she understood it to cover weekly communal dinners and cleaning supplies. A second said he believed it funded the space's shared coworking area maintenance. A third guessed it was essentially a profit margin dressed up as a fee. A fourth said she had simply never asked and assumed it was standard practice she should not question.",
+      "The space's management, when we asked directly for an itemized breakdown, provided one only after repeated requests: roughly 40 percent goes to communal event costs, 30 percent to shared area maintenance and utilities beyond what base rent covers, and the remaining 30 percent described only as 'operations,' a category management did not further define even when asked a second time.",
+      "None of the four residents we interviewed had ever seen this breakdown before we obtained it, meaning everyone paying the fee monthly had been doing so without any resident-facing documentation of where the money goes.",
+      "The space has not indicated any plan to publish this breakdown for residents going forward, leaving the fee's actual accounting a matter of asking management directly rather than anything routinely disclosed."
+    ]
+  },
+  {
+    "id": 73,
+    "category": "Accommodations",
+    "title": "Why Rent Here Is Quoted in Dollars but Paid in a Currency That Isn't",
+    "excerpt": "the conversion happens at whatever rate the landlord feels like on the day rent is due. it's more common than you'd think",
+    "author": "R. Doyle",
+    "date": "2025-12-22",
+    "likes": 69,
+    "comments": 12,
+    "color": "pink",
+    "image": "https://picsum.photos/seed/wire73/1200/900",
+    "body": [
+      "Rent listings across much of the villa and long-term rental market are quoted in US dollars but paid in rupiah, with the conversion happening at whatever rate the landlord decides on the day payment is due, a practice more common than most renters realize until they experience an unexpectedly higher bill.",
+      "Unlike a bank or licensed money changer, individual landlords are not bound to any published exchange rate, and most rental agreements we reviewed do not specify which rate applies, whether it is the central bank's reference rate, a market rate from a given date, or simply whatever number the landlord names. That ambiguity gives landlords considerable informal latitude.",
+      "One renter described a case where her monthly dollar-denominated rent, converted at a rate roughly 4 percent above the prevailing market rate that month, cost her an extra 380,000 rupiah she had no contractual basis to dispute, since the agreement never specified a fixed conversion method.",
+      "A property lawyer we consulted recommended renters negotiate a fixed conversion method into the lease itself, either a specific bank's published rate on a specific date each month, before signing, since verbal assurances about 'fair' conversion rarely survive an actual dispute.",
+      "Renters currently paying under a dollar-quoted lease with no specified conversion method have little recourse beyond negotiating the point directly with their landlord, ideally before the next payment cycle rather than after noticing a rate that feels off."
+    ]
+  },
+  {
+    "id": 74,
+    "category": "Accommodations",
+    "title": "The Building Permit Issue That Could Get Your Rental Demolished",
+    "excerpt": "a wave of teardown notices hit rentals built without proper permits. tenants had nine days to move out",
+    "author": "N. Okafor",
+    "date": "2025-12-18",
+    "likes": 103,
+    "comments": 25,
+    "color": "dark",
+    "image": "https://picsum.photos/seed/wire74/1200/900",
+    "body": [
+      "A wave of teardown notices hit a cluster of rental properties this past November after a building permit audit revealed the structures had been built without the proper construction permits, a status that had apparently gone unnoticed, or unenforced, for years before the audit caught up with them.",
+      "Tenants in the affected units, roughly a dozen properties according to the district building office, were given nine days to vacate once the demolition order was issued, a timeline that left several renters scrambling to find alternative housing on short notice, particularly difficult during a period when rental availability in the area was already tight.",
+      "The permit issue traces back to the original construction, not to anything the tenants did; landlords built the structures without securing the required building permit (IMB or its current equivalent), a violation that can sit undetected for years until a formal audit, triggered in this case by a neighboring property dispute, brings it to official attention.",
+      "One tenant, who had signed a one-year lease just two months before the demolition notice, said she had no way to have known about the underlying permit issue before signing, since nothing about the property's legal status is typically disclosed to renters at all. She has not received any compensation from her landlord for the early termination.",
+      "Tenant advocates we spoke with recommend renters ask landlords directly for proof of a valid building permit before signing any lease, though they acknowledge this is not yet common practice and landlords are under no strong obligation to volunteer the document unprompted."
+    ]
+  },
+  {
+    "id": 75,
+    "category": "Accommodations",
+    "title": "How to Actually Verify a Villa Listing Is Real Before You Wire a Deposit",
+    "excerpt": "three listings scammed renters this year using photos scraped from a legitimate agency. here's what would have caught it",
+    "author": "K. Bellweather",
+    "date": "2025-12-14",
+    "likes": 91,
+    "comments": 18,
+    "color": "pink",
+    "image": "https://picsum.photos/seed/wire75/1200/900",
+    "body": [
+      "Three villa listings scammed renters out of deposits this year using photos scraped directly from a legitimate, well-reviewed rental agency's actual listings, repackaged under a fake name with a slightly altered price to look like a deal. All three scams followed a nearly identical pattern.",
+      "In each case, the fake listing appeared on a general classifieds site rather than a dedicated booking platform, used photos and even some descriptive text lifted from the real agency's listing, and requested a deposit via bank transfer to a personal account rather than a business account, a detail victims told us they noticed only in hindsight.",
+      "The real estate agency whose photos were used told us they discovered the scam only after a confused prospective renter contacted them asking about a villa the agency did not actually manage, at a price point below what the agency itself was charging for the same property.",
+      "What would have caught all three scams before money changed hands: a reverse image search on the listing photos, which in each case surfaced the original legitimate listing within the agency's own website; and a request to video call the property live rather than accepting pre-existing photos and videos as sufficient proof.",
+      "None of the three victims recovered their deposits, and all three transfers went to accounts that were closed shortly after the payment cleared, a pattern consistent enough across all three cases to suggest either the same operator or a shared playbook."
+    ]
+  },
+  {
+    "id": 76,
+    "category": "Accommodations",
+    "title": "The Difference Between a Kos and a Rental Nobody Explains to Newcomers",
+    "excerpt": "they aren't interchangeable terms and the legal protections are not the same. here's what actually separates them",
+    "author": "H. Ward",
+    "date": "2025-12-10",
+    "likes": 39,
+    "comments": 6,
+    "color": "dark",
+    "image": "https://picsum.photos/seed/wire76/1200/900",
+    "body": [
+      "A kos, a traditional boarding house typically renting single rooms with shared facilities, and a standard rental unit are treated as interchangeable by a lot of newcomers searching for housing, but the legal protections attached to each are meaningfully different, a gap almost nobody explains before someone signs a kos agreement expecting rental-level protections.",
+      "Standard rental agreements, particularly for a full house or villa, generally fall under more clearly defined tenancy expectations regarding notice periods, deposit handling, and habitability. Kos arrangements are typically far more informal, often a simple monthly or even weekly cash arrangement with minimal written documentation, and correspondingly far less legal protection if a dispute arises over a deposit, an eviction, or a maintenance issue.",
+      "A housing rights researcher we spoke with described the distinction as functionally similar to the difference between a hotel stay and a lease, even though kos accommodations often house long-term residents for years at a stretch, well beyond what the loose, informal terms of the arrangement would suggest they are built for.",
+      "One long-term kos resident of four years told us she had no formal written agreement at all, just a verbal understanding renewed monthly, which worked fine until a dispute over a broken air conditioning unit left her with essentially no documented leverage to demand a repair or a rent reduction.",
+      "Anyone planning a stay of more than a few months should understand which category their accommodation actually falls into, and, ideally, push for a written agreement regardless of which one it is, since the informal norm in kos arrangements offers little protection if something goes wrong."
+    ]
+  },
+  {
+    "id": 77,
+    "category": "Food",
+    "title": "The Warung Health Inspection Ratings You Can Actually Check",
+    "excerpt": "most people don't know this database exists. we pulled the scores for the twenty most reviewed spots in town",
+    "author": "B. Ellison",
+    "date": "2025-12-06",
+    "likes": 58,
+    "comments": 10,
+    "color": "dark",
+    "image": "https://picsum.photos/seed/wire77/1200/900",
+    "body": [
+      "A public health inspection database covering local food vendors exists and is technically searchable online, a fact most residents and visitors do not know, based on an informal poll we ran asking 30 people whether they had heard of it. Two had.",
+      "We pulled the scores for the twenty most reviewed warungs in the area according to a popular review platform, and cross-referenced them against this inspection database. Results were mixed: fourteen of the twenty had a current passing inspection on file, three had inspection records over two years old, and three had no record in the database at all despite operating openly and appearing prominently in online reviews.",
+      "The database itself, run by the regional health office, is not linked from any of the popular review or delivery platforms, meaning a diner would have to know it exists and search for it directly by the establishment's registered business name, which does not always match the name on the storefront sign.",
+      "One of the three warungs with no inspection record on file, when we asked directly, said they had been inspected in the past but were unsure why no record appeared in the online system, suggesting the gap may be a database entry issue rather than an actual absence of inspection.",
+      "For anyone who wants to check before eating somewhere new, the database exists and is public. Getting to it just requires knowing to look, since nothing in the ordinary dining discovery process points there."
+    ]
+  },
+  {
+    "id": 78,
+    "category": "Food",
+    "title": "Why Every Import Grocery Store Has the Same Five Empty Shelves",
+    "excerpt": "it isn't demand. it's one customs bottleneck affecting every shipment of the same product category",
+    "author": "T. Faraday",
+    "date": "2025-12-02",
+    "likes": 46,
+    "comments": 8,
+    "color": "pink",
+    "image": "https://picsum.photos/seed/wire78/1200/900",
+    "body": [
+      "Every import grocery store we visited across three neighborhoods had the same five product categories sitting empty on the shelf: specific imported cheeses, certain breakfast cereals, particular baking flours, a specific brand of imported pasta, and canned goods from one particular supplier. The consistency across unrelated stores was the tell that this was not simply local demand outpacing supply.",
+      "A supply chain contact at one of the larger import distributors explained the actual cause: a customs inspection bottleneck affecting an entire product category classification, not any single brand or supplier, meaning every shipment coded under that classification gets held for extended documentation review regardless of which company shipped it.",
+      "The bottleneck reportedly began after a customs policy update earlier this year tightened labeling and ingredient documentation requirements for imported packaged foods, a change that was not paired with any increase in processing capacity to handle the resulting review backlog.",
+      "Store managers we spoke with said they have no reliable timeline from their distributors on when specific products will return to stock, since the holdup is happening at the customs level rather than anywhere in the store's own control. Two managers said they've simply stopped promising customers a restock date.",
+      "Until the customs backlog clears, and nobody we spoke with could say when that might be, the same five categories of empty shelf are likely to remain a fixture across every import grocery store sourcing through the affected classification."
+    ]
+  },
+  {
+    "id": 79,
+    "category": "Food",
+    "title": "The Delivery App Fee Structure That Quietly Doubled Restaurant Costs",
+    "excerpt": "a platform change in october raised commission rates without a public announcement. three owners showed us their invoices",
+    "author": "J. Marlowe",
+    "date": "2025-11-28",
+    "likes": 72,
+    "comments": 14,
+    "color": "dark",
+    "image": "https://picsum.photos/seed/wire79/1200/900",
+    "body": [
+      "A major delivery platform operating in the region adjusted its commission structure in October without any public announcement, raising the effective rate restaurants pay per order from roughly 20 percent to 28 percent, according to invoices from three restaurant owners who shared their billing statements with us.",
+      "None of the three owners recalled receiving a direct notice of the change; all three discovered it only when reconciling their own monthly revenue against what the platform actually deposited, noticing the gap had widened compared to previous months without any corresponding change in their menu pricing or order volume.",
+      "One owner calculated the change cost her restaurant roughly 4,200,000 rupiah in additional commission over the two months since the increase took effect, a meaningful hit for a business already operating on thin margins in a competitive delivery market.",
+      "When we contacted the platform for comment on the rate change and the lack of public notice, a spokesperson said commission adjustments are disclosed 'within the partner dashboard,' a claim that did not match what any of the three restaurant owners recalled seeing, though none could rule out having missed a notification buried in an app they check primarily for order volume rather than policy updates.",
+      "Two of the three restaurants have since raised menu prices specifically on the delivery platform to offset the higher commission, a workaround that shifts the cost onto customers rather than resolving the underlying rate increase."
+    ]
+  },
+  {
+    "id": 80,
+    "category": "Food",
+    "title": "The Local Market Stall That Undersells Every Supermarket by Half",
+    "excerpt": "same produce, same quality, and almost no foreigners shop there because it isn't on any recommended list",
+    "author": "R. Kowalski",
+    "date": "2025-11-24",
+    "likes": 64,
+    "comments": 11,
+    "color": "pink",
+    "image": "https://picsum.photos/seed/wire80/1200/900",
+    "body": [
+      "A local market stall selling produce at prices roughly half of what nearby supermarkets charge for comparable quality sees almost no foreign customers, a gap that has less to do with the produce itself and more to do with which recommendation lists foreigners actually consult before deciding where to shop.",
+      "We compared prices directly: tomatoes running 8,000 rupiah per kilogram at the stall versus 16,000 at the nearest supermarket chain, with similar gaps across leafy greens, chilies, and most seasonal fruit. Quality, based on our own comparison over three separate purchases, was comparable or in some cases better at the stall, with fresher stock turnover given the shorter supply chain from local farms.",
+      "The stall does not appear on any of the food or shopping guides commonly circulated in expat communities, none of which we could find mentioned it despite it operating at the same location for over eight years according to the vendor. Foot traffic remains almost entirely local residents doing daily shopping rather than any tourist or long-term foreign resident presence.",
+      "The vendor, when asked why she thought foreigners rarely shopped there, guessed it was simply unfamiliarity with the market format itself, no price tags, negotiation expected on some items, cash only, compared to the more familiar, fixed-price supermarket experience most newcomers default to.",
+      "Nothing about the stall requires special access or local language fluency beyond basic numbers, but breaking the habit of defaulting to supermarket shopping appears to be the actual barrier, not any real difficulty in accessing the market itself."
+    ]
+  },
+  {
+    "id": 81,
+    "category": "Food",
+    "title": "What 'Organic' Actually Means on a Menu Here, Legally Speaking",
+    "excerpt": "the label isn't regulated the way it is elsewhere. here's what restaurants can claim without any certification at all",
+    "author": "E. Sorensen",
+    "date": "2025-11-20",
+    "likes": 37,
+    "comments": 5,
+    "color": "dark",
+    "image": "https://picsum.photos/seed/wire81/1200/900",
+    "body": [
+      "The word 'organic' on a restaurant menu here carries no enforceable legal weight in most cases, meaning a restaurant can print it next to a dish with zero certification behind the claim, a gap that surprised several diners we surveyed who assumed the label meant something regulated the way it does in some other markets.",
+      "There is a national organic certification standard that does exist for agricultural products sold as certified organic in retail settings, but menu language at restaurants is not covered under the same enforcement regime, leaving a restaurant free to describe an ingredient as organic based on nothing more than a supplier's verbal claim, or no verification at all.",
+      "We asked six restaurants advertising organic ingredients on their menus for certification documentation. Two provided it readily, sourced from certified local farms. Three said their supplier told them the produce was organic but could not provide documentation themselves. One declined to answer the question at all.",
+      "A food industry consultant we spoke with said this gap is well known within the restaurant business but rarely discussed publicly, since flagging it does not benefit any individual restaurant relative to competitors also using the term loosely.",
+      "If a genuinely certified organic sourcing matters to you, asking a restaurant directly for their supplier's certification is currently the only way to distinguish a real claim from a marketing one, since the menu language alone tells you nothing enforceable."
+    ]
+  },
+  {
+    "id": 82,
+    "category": "Food",
+    "title": "The Coffee Farm Tour That's Actually Worth the Drive",
+    "excerpt": "most are the same script for tour buses. this one is run by the family that's grown the beans for three generations",
+    "author": "N. Okafor",
+    "date": "2025-11-16",
+    "likes": 55,
+    "comments": 9,
+    "color": "dark",
+    "image": "https://picsum.photos/seed/wire82/1200/900",
+    "body": [
+      "Most coffee farm tours sold to visitors in the area run an identical script regardless of which farm hosts them: a short walk through a demonstration plot, a civet cat display, and a tasting session, largely built for tour bus schedules rather than any deep engagement with how the coffee is actually grown. One farm tour breaks from that pattern in a way worth the extra drive.",
+      "Run by a family that has grown coffee on the same plot for three generations, the tour skips the civet cat display entirely, a choice the current operator, grandson of the farm's founder, said was deliberate given ongoing animal welfare concerns about how some tourist-facing civet operations house their animals. Instead the tour focuses on the farm's own processing method, a semi-washed technique passed down through the family rather than adopted for tourist appeal.",
+      "The tour runs about 90 minutes, longer than the standard 30 to 40 minute version at most tourist-circuit farms, and caps group size at eight visitors specifically so the guide, usually a family member, can actually answer questions rather than deliver a fixed script to a large group.",
+      "Pricing runs slightly above the standard tourist-circuit tours, but every visitor we spoke with afterward said the difference in depth justified the gap, particularly the chance to see actual bean processing rather than a staged demonstration setup built primarily for photos.",
+      "The farm does not run daily tours and generally requires booking a few days ahead, a small inconvenience compared to the walk-up tourist tours, but one that reflects the tour being a genuine extension of a working farm rather than a business built around tourism first."
+    ]
+  },
+  {
+    "id": 83,
+    "category": "Food",
+    "title": "Why Restaurant Reviews Here Skew High and What to Read Instead",
+    "excerpt": "the incentive structure on review platforms rewards owners who ask nicely. here's where locals actually complain",
+    "author": "K. Bellweather",
+    "date": "2025-11-12",
+    "likes": 49,
+    "comments": 7,
+    "color": "pink",
+    "image": "https://picsum.photos/seed/wire83/1200/900",
+    "body": [
+      "Restaurant review scores here skew noticeably high on the most popular review platforms, and the reason has less to do with food quality across the board and more to do with an incentive structure that rewards owners who directly ask satisfied customers to leave reviews, while dissatisfied customers more often simply do not return rather than posting anything.",
+      "We compared average ratings across 40 restaurants on a major review platform against a smaller, more critical local food forum where reviewers post under limited-anonymity handles rather than an account tied to their real name and social circle. Platform-listed averages ran notably higher across nearly every restaurant we compared, sometimes by close to a full point on a five-point scale.",
+      "One restaurant owner was candid about the practice: he actively asks happy customers, in person, to leave a review before they leave, a common and not inherently dishonest tactic that nonetheless skews the visible sample toward people who were prompted in the moment rather than a representative cross-section of everyone who ate there.",
+      "The local forum, by contrast, tends to attract posts specifically when someone had a bad experience and wants to warn others, a self-selecting bias in the opposite direction that is worth acknowledging even as it offers a useful counterweight to the inflated platform averages.",
+      "Reading both sources together, rather than trusting either one's average score in isolation, gives a more honest picture than either the glowing platform reviews or the more critical forum posts do on their own."
+    ]
+  },
+  {
+    "id": 84,
+    "category": "Food",
+    "title": "The Street Food Stall Rotation Schedule Nobody Writes Down",
+    "excerpt": "the best stalls move by day of the week based on unwritten local agreements. here's the pattern we tracked over two months",
+    "author": "R. Doyle",
+    "date": "2025-11-08",
+    "likes": 66,
+    "comments": 13,
+    "color": "dark",
+    "image": "https://picsum.photos/seed/wire84/1200/900",
+    "body": [
+      "The best street food stalls in the market district do not stay in one place all week; they rotate locations based on unwritten agreements among vendors that nobody writes down or publishes anywhere, a pattern we tracked by visiting the same three-block stretch daily for two months.",
+      "Over that period, we logged a consistent rotation: a particular satay stall occupies the northeast corner Tuesday through Thursday, then shifts to a spot two blocks south for the weekend, apparently by informal agreement with another vendor who takes the corner spot during the week's slower days. Neither vendor could fully explain the origin of the arrangement beyond 'that's how it's always been done.'",
+      "The rotation appears to be governed by a mix of foot traffic patterns, weekday versus weekend crowd differences, and long-standing relationships between vendor families, some of whom have operated in the same general area for over 20 years and have simply worked out an unspoken division of prime spots over that time.",
+      "None of this is documented anywhere a first-time visitor could find; there is no published schedule, and asking one vendor about another's location often gets a vague answer, less out of secrecy than because the vendors themselves do not think of the rotation as information worth writing down.",
+      "We are publishing the pattern we tracked as a rough guide, with the caveat that these arrangements can and do shift without notice, which is more or less the entire point of how the system has always worked."
+    ]
+  }
+]

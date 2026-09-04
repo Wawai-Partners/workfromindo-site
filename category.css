@@ -1,0 +1,54 @@
+/* Category accent colors - active nav link + header background via JS based on ?cat= */
+body { background: var(--cream); }
+
+.utility-nav a, .site-header { transition: background-color 0.2s ease; }
+
+.utility-nav a.active {
+  color: var(--black);
+  font-weight: 800;
+}
+
+.site-header.accent-active .header-actions a,
+.site-header.accent-active .menu-toggle {
+  color: var(--black);
+}
+.site-header.accent-active .btn-pill {
+  border-color: var(--black);
+}
+.site-header.accent-active .logo-mark img {
+  filter: none;
+}
+
+.category-page-title {
+  font-family: var(--font-display);
+  font-weight: 400;
+  text-transform: none;
+  font-size: clamp(3rem, 10vw, 7rem);
+  line-height: 0.9;
+  margin: 32px 24px;
+  color: var(--black);
+  border-bottom: 1px solid rgba(0,0,0,0.15);
+  padding-bottom: 24px;
+}
+
+.category-page-content {
+  padding: 0 24px 40px;
+  color: var(--black);
+}
+
+.category-page-content .category-featured {
+  margin: 0 -24px 36px;
+}
+
+.category-page-content .card-stats {
+  opacity: 0.6;
+}
+
+.subcategory-block + .subcategory-block {
+  margin-top: 64px;
+  padding-top: 48px;
+  border-top: 1px solid rgba(0,0,0,0.15);
+}
+.subcategory-title {
+  display: none;
+}

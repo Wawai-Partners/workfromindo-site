@@ -1,0 +1,274 @@
+.subscribe-body {
+  background: var(--cream);
+  color: var(--black);
+}
+
+.subscribe-back {
+  position: fixed;
+  top: 20px;
+  left: 20px;
+  z-index: 10;
+  background: var(--white);
+  color: var(--black);
+  padding: 8px 16px;
+  border-radius: 999px;
+  font-weight: 700;
+  font-size: 0.85rem;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.15);
+}
+
+.subscribe-page {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  min-height: 100vh;
+}
+
+/* Left panel */
+.subscribe-panel {
+  background: var(--cream);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 60px;
+}
+.subscribe-content { max-width: 480px; width: 100%; }
+
+.subscribe-brandrow {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  margin-bottom: 28px;
+}
+.subscribe-logo { height: 28px; width: auto; }
+.subscribe-daily-tag {
+  border: 2px solid var(--black);
+  font-weight: 800;
+  font-size: 0.75rem;
+  padding: 2px 8px;
+  letter-spacing: 0.05em;
+}
+
+.subscribe-heading {
+  font-family: var(--font-display);
+  font-size: clamp(2rem, 4vw, 2.8rem);
+  line-height: 1.05;
+  margin: 0 0 20px;
+  text-transform: none;
+}
+
+.subscribe-sub {
+  font-family: 'Merriweather', Georgia, serif;
+  font-style: italic;
+  font-size: 1.05rem;
+  line-height: 1.6;
+  color: #2f2f2f;
+  margin: 0 0 28px;
+}
+
+.subscribe-label {
+  display: block;
+  font-size: 0.8rem;
+  font-weight: 700;
+  margin-bottom: 8px;
+}
+
+.subscribe-input-row {
+  display: flex;
+  border: 1px solid var(--black);
+}
+.subscribe-input-row input {
+  flex: 1;
+  border: none;
+  padding: 14px 16px;
+  font-family: var(--font-body);
+  font-size: 0.95rem;
+  background: var(--white);
+  color: var(--black);
+}
+.subscribe-input-row input:focus { outline: 2px solid var(--pink); outline-offset: -2px; }
+.subscribe-input-row button {
+  background: var(--orange);
+  color: var(--black);
+  border: none;
+  padding: 14px 22px;
+  font-weight: 700;
+  cursor: pointer;
+  font-family: var(--font-body);
+  white-space: nowrap;
+}
+
+.subscribe-quote {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+  margin-top: 32px;
+  padding: 20px;
+  border: 1px solid rgba(0,0,0,0.15);
+}
+.subscribe-avatar {
+  width: 44px;
+  height: 44px;
+  border-radius: 50%;
+  background: var(--pink);
+  flex-shrink: 0;
+}
+.quote-text {
+  font-family: 'Merriweather', Georgia, serif;
+  font-style: italic;
+  margin: 0 0 6px;
+  font-size: 1rem;
+}
+.quote-author { margin: 0; font-weight: 700; font-size: 0.9rem; }
+
+.subscribe-dots {
+  display: flex;
+  gap: 8px;
+  margin-top: 28px;
+}
+.dot {
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+  background: rgba(0,0,0,0.2);
+}
+.dot.active { background: var(--black); }
+
+/* Right visual panel */
+.subscribe-visual {
+  background: var(--pink);
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  overflow: hidden;
+  padding: 60px 40px;
+}
+
+.callout {
+  position: absolute;
+  background: var(--white);
+  color: var(--black);
+  font-family: var(--font-display);
+  text-transform: uppercase;
+  font-size: 0.95rem;
+  padding: 10px 16px;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.25);
+  z-index: 3;
+}
+.callout-top { top: 12%; left: 8%; }
+.callout-mid { top: 46%; right: 4%; }
+.callout-bottom { bottom: 12%; left: 12%; }
+
+.phone {
+  width: 320px;
+  height: 640px;
+  background: var(--black);
+  border-radius: 40px;
+  padding: 14px;
+  position: relative;
+  box-shadow: 0 30px 60px rgba(0,0,0,0.35);
+}
+.phone-notch {
+  position: absolute;
+  top: 14px;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 120px;
+  height: 22px;
+  background: var(--black);
+  border-radius: 0 0 14px 14px;
+  z-index: 2;
+}
+.phone-screen {
+  background: var(--white);
+  color: var(--black);
+  width: 100%;
+  height: 100%;
+  border-radius: 28px;
+  overflow: hidden;
+  padding: 32px 18px 18px;
+  display: flex;
+  flex-direction: column;
+}
+.phone-logo { height: 26px; width: auto; margin: 0 auto 10px; display: block; }
+.phone-tagbar {
+  display: flex;
+  gap: 4px;
+  background: var(--pink);
+  padding: 4px 8px;
+  margin: 0 -18px 12px;
+  overflow: hidden;
+}
+.phone-tagbar span {
+  color: var(--white);
+  font-size: 0.6rem;
+  font-weight: 800;
+  white-space: nowrap;
+}
+.phone-heading { font-weight: 800; font-size: 1rem; margin: 0 0 8px; }
+.phone-list {
+  margin: 0 0 14px;
+  padding-left: 18px;
+  font-size: 0.8rem;
+  line-height: 1.5;
+}
+.phone-num {
+  width: 26px;
+  height: 26px;
+  border-radius: 50%;
+  background: var(--pink);
+  color: var(--white);
+  font-weight: 800;
+  font-size: 0.85rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 10px;
+}
+.phone-article {
+  border: 1px solid rgba(0,0,0,0.15);
+  padding: 12px;
+  overflow: hidden;
+  flex: 1;
+}
+.phone-article h3 {
+  font-family: 'Merriweather', Georgia, serif;
+  font-size: 1rem;
+  margin: 0 0 8px;
+}
+.phone-byline {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  margin-bottom: 10px;
+  font-size: 0.7rem;
+}
+.phone-avatar {
+  width: 22px;
+  height: 22px;
+  border-radius: 50%;
+  background: var(--orange);
+  flex-shrink: 0;
+}
+.phone-article p {
+  font-size: 0.72rem;
+  line-height: 1.5;
+  margin: 0;
+  color: #333;
+}
+
+@media (max-width: 900px) {
+  .subscribe-page { grid-template-columns: 1fr; }
+  .subscribe-panel { padding: 100px 24px 40px; }
+  .subscribe-visual { padding: 90px 16px 100px; min-height: 720px; }
+  .phone { width: 260px; height: 540px; }
+  .callout { font-size: 0.7rem; padding: 6px 10px; }
+  .callout-top { top: 4%; left: 6%; }
+  .callout-mid { top: 50%; right: 2%; transform: translateY(-50%); }
+  .callout-bottom { bottom: 4%; left: 6%; }
+}
+
+@media (max-width: 480px) {
+  .phone { width: 220px; height: 460px; }
+  .callout-mid { display: none; }
+}
